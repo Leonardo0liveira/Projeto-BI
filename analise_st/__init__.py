@@ -1,0 +1,1 @@
+from analise_st.preparacao import prepare

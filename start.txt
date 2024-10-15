@@ -1,0 +1,8 @@
+Para rodar esse projeto precisamos:
+
+1. Setar o ambiente virtual e ativa-lo
+2. entrar o comando: (ele baixa as bibliotecas necessarias pro projeto, precisando de mais bibliotecas é só adicionar no arquivo)
+                        pip install -r requirements.txt
+3. entrar os comandos:
+                        cd analise_st/
+                        streamlit run analise.py

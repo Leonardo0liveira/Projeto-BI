@@ -7,6 +7,10 @@ from prep.preparacao import prepare
 def main():
     st.title("Analise de dados de clientes")
     
+    st.sidebar.image('EAILogo.webp', width=150)  
+    
+    st.sidebar.selectbox("Análises",["clientes", "gostos"])
+    
     base = pd.read_csv('/Users/leonardooliveira/Desktop/PBI/Projeto-BI/analise_st/responses.csv', sep=";")
     
     base= base.fillna(False)
@@ -95,6 +99,7 @@ def main():
     
     
     st.subheader("Distribuição: Você gosta de moda?")
+    frq_gostaModa = base['gosta_moda'].value_counts()
     fig, ax = plt.subplots()
     frq_gostaModa.plot(kind='bar', ax=ax)
     ax.set_title('Frequência de resposta para "Você gosta de moda?"')
@@ -102,19 +107,92 @@ def main():
     ax.set_ylabel('Frequência')
     st.pyplot(fig)
     
-    
+    # Análise: Distribuição de tipos de pele
     st.subheader("Distribuição de tipos de pele")
+    frq_tipoPele = base['tipo_pele'].value_counts()
     fig, ax = plt.subplots()
     ax.pie(frq_tipoPele, labels=frq_tipoPele.index, autopct='%1.1f%%', startangle=90)
     ax.axis('equal') 
     st.pyplot(fig)
-    
-    
-    st.subheader("Proporcao de clientes por estado")
+
+    # Análise: Proporção de clientes por região
+    st.subheader("Proporção de clientes por estado")
+    frq_regiao = base['REGIAO'].value_counts()
     fig, ax = plt.subplots()
     frq_regiao.plot(kind='bar', ax=ax)
-    ax.set_title("Distribuicao de clientes por regiao")
-    ax.set_xlabel('REGIAO')
+    ax.set_title("Distribuição de clientes por região")
+    ax.set_xlabel('Região')
+    ax.set_ylabel('Frequência')
+    st.pyplot(fig)
+
+    # Análise: Frequência de quem usa maquiagem
+    st.subheader("Distribuição: Você usa maquiagem?")
+    frq_usaMaquiagem = base['usa_maquiagem'].value_counts()
+    fig, ax = plt.subplots()
+    frq_usaMaquiagem.plot(kind='bar', ax=ax)
+    ax.set_title('Frequência de resposta para "Você usa maquiagem?"')
+    ax.set_xlabel('Resposta')
+    ax.set_ylabel('Frequência')
+    st.pyplot(fig)
+    
+    # Análise: Frequência de quem usa Cleanser
+    st.subheader("Distribuição: Você usa Cleanser?")
+    frq_usoCleanser = base['uso_cleanser'].value_counts()
+    fig, ax = plt.subplots()
+    frq_usoCleanser.plot(kind='bar', ax=ax)
+    ax.set_title('Frequência de resposta para "Você usa Cleanser?"')
+    ax.set_xlabel('Resposta')
+    ax.set_ylabel('Frequência')
+    st.pyplot(fig)
+    
+    # Análise: Frequência de quem pratica esportes
+    st.subheader("Distribuição: Você pratica esportes?")
+    frq_praticaEsportes = base['pratica_esportes'].value_counts()
+    fig, ax = plt.subplots()
+    frq_praticaEsportes.plot(kind='bar', ax=ax)
+    ax.set_title('Frequência de resposta para "Você pratica esportes?"')
+    ax.set_xlabel('Resposta')
+    ax.set_ylabel('Frequência')
+    st.pyplot(fig)
+    
+    # Análise: Frequência de quem tem pet
+    st.subheader("Distribuição: Você tem um pet?")
+    frq_temPet = base['tem_pet'].value_counts()
+    fig, ax = plt.subplots()
+    frq_temPet.plot(kind='bar', ax=ax)
+    ax.set_title('Frequência de resposta para "Você tem um pet?"')
+    ax.set_xlabel('Resposta')
+    ax.set_ylabel('Frequência')
+    st.pyplot(fig)
+    
+    # Análise: Frequência de quem gosta de decoração
+    st.subheader("Distribuição: Você gosta de decoração?")
+    frq_gostaDecoracao = base['gosta_decoracao'].value_counts()
+    fig, ax = plt.subplots()
+    frq_gostaDecoracao.plot(kind='bar', ax=ax)
+    ax.set_title('Frequência de resposta para "Você gosta de decoração?"')
+    ax.set_xlabel('Resposta')
+    ax.set_ylabel('Frequência')
+    st.pyplot(fig)
+    
+    # Análise: Frequência de quem consome alimentos saudáveis
+    st.subheader("Distribuição: Você consome alimentos saudáveis com frequência?")
+    frq_consumeAlimentosSaudaveis = base['consome_alimentos_saudaveis'].value_counts()
+    fig, ax = plt.subplots()
+    frq_consumeAlimentosSaudaveis.plot(kind='bar', ax=ax)
+    ax.set_title('Frequência de resposta para "Você consome alimentos saudáveis?"')
+    ax.set_xlabel('Resposta')
+    ax.set_ylabel('Frequência')
+    st.pyplot(fig)
+    
+    # Análise: Frequência de quem gosta de carros
+    st.subheader("Distribuição: Você gosta de mexer com carros?")
+    frq_gostaCarros = base['gosta_carros'].value_counts()
+    fig, ax = plt.subplots()
+    frq_gostaCarros.plot(kind='bar', ax=ax)
+    ax.set_title('Frequência de resposta para "Você gosta de mexer com carros?"')
+    ax.set_xlabel('Resposta')
+    ax.set_ylabel('Frequência')
     st.pyplot(fig)
     
     

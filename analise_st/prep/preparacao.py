@@ -140,6 +140,8 @@ def prepare(base):
     # Substituir 1 por 'Sim' e 0 por 'Não' nas colunas binárias
     base.loc[:, binary_columns] = base[binary_columns].replace({1: 'Sim', 0: 'Não'})    
     
+    base.to_csv('BaseTratada.csv', index =False)
+    
     return base
     
     

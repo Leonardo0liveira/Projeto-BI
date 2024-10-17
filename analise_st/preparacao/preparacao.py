@@ -1,8 +1,9 @@
 import pandas as pd
 import streamlit as st
-import matplotlib.pyplot as plt
 
 def prepare(base):
+    base= base.fillna(False)
+
     novas_colunas = {
         '#': 'id',
         'Você gosta de moda?': 'gosta_moda',
@@ -88,19 +89,16 @@ def prepare(base):
     }
 
     base.rename(columns=novas_colunas, inplace=True)    
-    
-    
-    
 
     # Carregar o arquivo de regiões 'UF_regioes.csv'
-    regioes = pd.read_csv('prep/UF_regioes.csv', sep=',')
+    regioes = pd.read_csv('preparacao/UF_regioes.csv', sep=',')
 
     # Padronizar os valores da coluna 'Estado' em 'base' e 'ESTADO' em 'regioes'
     base['estado'] = base['estado'].str.strip().str.upper()
     regioes['ESTADO'] = regioes['ESTADO'].str.strip().str.upper()
     # Realizar o merge com base nas colunas 'Estado' e 'ESTADO'
     base = pd.merge(base, regioes, left_on='estado', right_on='ESTADO', how='left')
-    
+
 
     del base['tags']
     del base['data_estagio']
@@ -116,8 +114,7 @@ def prepare(base):
     del base['ESTADO']
     del base['id']
     del base['UF']
- 
-
+    
     
     # Novas colunas binárias para substituição de 1 por "Sim" e 0 por "Não"
     binary_columns = [

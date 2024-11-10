@@ -22,7 +22,7 @@ def render_sidebar(base):
     st.session_state["selected_page"] = page
 
 def main():
-    st.title("Experimenta aí!")
+    st.title("Experimentaí!")
         
     base = pd.read_csv('/Users/leonardooliveira/Desktop/PBI-EXAI/Projeto-BI/analise_st/responses.csv', sep=";")
     

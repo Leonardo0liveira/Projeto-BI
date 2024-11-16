@@ -51,7 +51,7 @@ def build_page(is_chosen: bool, base: pd.DataFrame):
     st.plotly_chart(fig)
     
     st.subheader("Locais Preferidos para Compra de Produtos de Beleza")
-    locais_compra = base[''].value_counts().reset_index()
+    locais_compra = base['onde_compra_produtos_beleza'].value_counts().reset_index()
     locais_compra.columns = ['Local', 'Frequência']
     fig = px.bar(locais_compra, x='Frequência', y='Local', orientation='h',
                  title='Locais Preferidos de Compra',

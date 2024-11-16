@@ -1,0 +1,836 @@
+Customer ID,Customer Email,Plan,Interval,Amount,Status,Start Date (UTC),Customer Name
+cus_R468uxsb2CQDYC,laisasaki@gmail.com,price_1QB0GPHsrWBJzFX21H8iBGiv,month,49.00,active,2024-10-20 12:08,Lais Sasaki
+cus_R44g1sh6dYgs5c,camilateixeira204@hotmail.com,price_1QB0GPHsrWBJzFX21H8iBGiv,month,49.00,active,2024-10-20 10:38,Camila Teixeira 
+cus_R433jA89AamIqD,maaoak@hotmail.com,price_1QB0GPHsrWBJzFX21H8iBGiv,month,49.00,active,2024-10-20 08:58,Mariana
+cus_R3vvVBZkYtJdXj,jessica.psil@yahoo.com.br,price_1QAG2iHsrWBJzFX2pWrky42a,month,59.90,active,2024-10-20 01:36,Casa
+cus_R3tnISBvbX87tu,giovanna.luckner@gmail.com,price_1QAG2iHsrWBJzFX2pWrky42a,month,59.90,active,2024-10-19 23:23,"Rua Primo José Mattioni, 526. Cond villagio d amore. B64"
+cus_R3tC8bF8RkRM2q,viaure98@hotmail.com,price_1QAG2iHsrWBJzFX2pWrky42a,month,59.90,active,2024-10-19 22:46,Vinicius oliveira
+cus_R3rjgbPPbeEame,margaridabenincasa@gmail.com,price_1QAG2iHsrWBJzFX2pWrky42a,month,59.90,active,2024-10-19 21:15,Margot Benincasa
+cus_R3pz3teKMObCYb,luisa.jensend@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-19 19:27,Luisa Jensen
+cus_R3pCJda2cOqafZ,t.ata.mariano@hotmail.com,price_1QAG2iHsrWBJzFX2pWrky42a,month,59.90,active,2024-10-19 18:38,Taynara Suellen Braga Mariano de Oliveira
+cus_R3opaZZYkCfax7,fernandapp.adm@hotmail.com,price_1QAG2iHsrWBJzFX2pWrky42a,month,59.90,active,2024-10-19 18:15,Fernanda Pricila
+cus_R3ngc6LDXXOtCT,robertappires97@gmail.com,price_1QB0GPHsrWBJzFX21H8iBGiv,month,49.00,active,2024-10-19 17:05,Roberta Pacheco
+cus_R3mzdydce7JdvO,rafaellabertani@gmail.com,price_1QAG2iHsrWBJzFX2pWrky42a,month,59.90,active,2024-10-19 16:21,Rafaella bertani
+cus_R3kQJOueH4MmLS,andreaharumyhirata@gmail.com,price_1QB0GPHsrWBJzFX21H8iBGiv,month,49.00,active,2024-10-19 13:42,Andrea Hirata
+cus_R3jreVRmkMoGL7,gabrielegarcia_@hotmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-19 13:07,Gabriele Garcia
+cus_R3hRCiLCToED0V,nathaliamartinsaltieri@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-19 10:37,Nathalia  Altieri
+cus_R3b487wfP8Yrcb,talissaar@yahoo.com.br,price_1QAG2iHsrWBJzFX2pWrky42a,month,59.90,active,2024-10-19 04:03,Talissa
+cus_R3b2FUXhLEZsTM,emaildaaliciacampos@gmail.com,price_1QAG2iHsrWBJzFX2pWrky42a,month,59.90,active,2024-10-19 04:01,Alicia Campos
+cus_R3ZneZeCFO3xb7,bellagontijo@yahoo.com.br,price_1QAG2iHsrWBJzFX2pWrky42a,month,59.90,active,2024-10-19 02:43,Izabella Gontijo
+cus_R3YexQW3RQ0pNu,mfbaustark@outlook.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-19 01:33,Marciany Frassetto
+cus_R3Xjrf4gXHNP3W,luannamello_7@hotmail.com,price_1QAG2iHsrWBJzFX2pWrky42a,month,59.90,active,2024-10-19 00:36,Luana Melo
+cus_R3XcWnJhZ9pFPO,yrptrindade@gmail.com,price_1QAG2iHsrWBJzFX2pWrky42a,month,59.90,active,2024-10-19 00:28,27262011
+cus_R3WepI5HfQrfNO,vir.pedrosa@hotmail.com,price_1QB0GPHsrWBJzFX21H8iBGiv,month,49.00,active,2024-10-18 23:28,Rua
+cus_R3VCE6Idr65Usv,izabelachiodi@gmail.com,price_1QB0GPHsrWBJzFX21H8iBGiv,month,49.00,active,2024-10-18 21:58,Izabela Chiodi
+cus_R3UTYaL3OEmJRn,bea.adao5@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-18 21:14,Ana Beatriz
+cus_R3Sk5PyL7OzwIZ,rayanajlimma@gmail.com,price_1QAG2iHsrWBJzFX2pWrky42a,month,59.90,active,2024-10-18 19:27,Rayana Lima
+cus_R3SddbkcU7wr8x,terezamcb@outlook.com,price_1QAG2iHsrWBJzFX2pWrky42a,month,59.90,active,2024-10-18 19:19,Tereza Barbosa
+cus_R3RneKq94ZkRQf,caolyvalves@outlook.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-18 18:27,Carolina Oliveira Alves
+cus_R3QhnjOAX74Hwh,saantos_jessica@ymail.com,price_1QAG2iHsrWBJzFX2pWrky42a,month,59.90,active,2024-10-18 17:19,JESSICA
+cus_R3QIJsc9FblG5S,Beatrizbsaldanha@outlook.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-18 16:54,Beatriz Barros Saldanha
+cus_R3MbFIUv5eNW1u,mc.resendenery@gmail.com,price_1QB0GPHsrWBJzFX21H8iBGiv,month,49.00,active,2024-10-18 13:05,Maria Clara Nery
+cus_R3MQBugzmwqPGx,yasmimrtc22@outlook.com,price_1QAG2iHsrWBJzFX2pWrky42a,month,59.90,active,2024-10-18 12:54,yasmim teodoro
+cus_R3Am5BrfkVDnup,nicole.pinhatti@ifood.com.br,price_1QB0GPHsrWBJzFX21H8iBGiv,month,49.00,active,2024-10-18 00:52,Nicole Pinhatti
+cus_R39eWrftIT3QKD,rosania.varella@hotmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-17 23:43,Rosania Varella
+cus_R38NefyEGzFTgp,giseleneveseng@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-17 22:23,Gisele
+cus_R33z1eRtuthI53,anapriscilapires3@gmail.com,price_1QAG2iHsrWBJzFX2pWrky42a,month,59.90,active,2024-10-17 17:51,Ana priacila pires
+cus_R31JaLtR5GFYZb,luiza.vct@hotmail.com,price_1QAG2iHsrWBJzFX2pWrky42a,month,59.90,active,2024-10-17 15:05,Luiza Vieira
+cus_R2yfKYvTd2ZByV,mariaeduardagomesds@gmail.com,price_1QAG2iHsrWBJzFX2pWrky42a,month,59.90,active,2024-10-17 12:21,Maria Eduarda Gomes dos Santos
+cus_R2yb8nEaB8rCq0,castrobacaio@gmail.com,price_1QAG2iHsrWBJzFX2pWrky42a,month,59.90,active,2024-10-17 12:17,Monica Melo
+cus_R2y7DSCmXr1Ev8,ccgmelo16@gmail.com,price_1QAG2iHsrWBJzFX2pWrky42a,month,59.90,active,2024-10-17 11:47,Monica Melo
+cus_R2xPvwXofKqpno,viniciusqsrleite@gmail.com,price_1QAG2iHsrWBJzFX2pWrky42a,month,59.90,active,2024-10-17 11:03,Vinicius Queiroz
+cus_R2qF09JgbdLPGe,lucianerbg@adv.oabsp.org.br,price_1QAG2iHsrWBJzFX2pWrky42a,month,59.90,active,2024-10-17 03:40,Luciane Ribeiro Barreto Gomes
+cus_R2p1Ij2RyrCF4u,draleilahashimoto.nutri@gmail.com,price_1QAG2iHsrWBJzFX2pWrky42a,month,59.90,active,2024-10-17 02:23,Leila Hashimoto
+cus_R2oCJTYCQQglYV,thaina.ferreira1964@gmail.com,price_1QAG2iHsrWBJzFX2pWrky42a,month,59.90,active,2024-10-17 01:32,Thaina Castro
+cus_R2o1kWEooUEURd,moreirajulianat@gmail.com,price_1QAG2iHsrWBJzFX2pWrky42a,month,59.90,active,2024-10-17 01:21,Juliana Moreira
+cus_R2nLEET4hgnt8d,ninaferracioli@hotmail.com,price_1QAG2iHsrWBJzFX2pWrky42a,month,59.90,active,2024-10-17 00:39,Nina Ferracioli
+cus_R2lSZYPiQRO7cq,daianespassos@gmail.com,price_1QAG2iHsrWBJzFX2pWrky42a,month,59.90,active,2024-10-16 22:43,Daiane Da Silva campos
+cus_R2gS1bZHqNeNlQ,aline_silvagf@hotmail.com,price_1QAG2iHsrWBJzFX2pWrky42a,month,59.90,active,2024-10-16 17:32,Aline Caetano
+cus_R2fqJRYWB0qVtw,amanda-ams@outlook.com.br,price_1QAG2iHsrWBJzFX2pWrky42a,month,59.90,active,2024-10-16 16:54,Rua Moliere 450 - casa 85
+cus_R2eAFiyLx8444x,camilateless@hotmail.com,price_1QAG2iHsrWBJzFX2pWrky42a,month,59.90,active,2024-10-16 15:10,Camila Teles Rodrigues
+cus_R2ZiN2z2yY0ePU,alycedpaula@icloud.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-16 10:34,Alyce de Paula Leite
+cus_R2ZbErtvMJNBwO,alycedpaula@icloud.com,price_1QAG2iHsrWBJzFX2pWrky42a,month,59.90,active,2024-10-16 10:27,Alyce de Paula Leite
+cus_R2YlvkIhVT1krX,camilafaggion2727@gmail.com,price_1QAG2iHsrWBJzFX2pWrky42a,month,59.90,active,2024-10-16 09:35,Camila Faggion de Freitas
+cus_R2QQavLD9Oa0Q4,michelle.jrog@gmail.com,price_1QAG2iHsrWBJzFX2pWrky42a,month,59.90,active,2024-10-16 00:58,Michelle Rogerio
+cus_R2PYVirvFdsbz2,thamirodriguess24@gmail.com,price_1QAG2iHsrWBJzFX2pWrky42a,month,59.90,active,2024-10-16 00:04,Thamires Silva
+cus_R2NkHHlWWEfgou,fairanycavalcante@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-15 22:13,Fairany Cavalcante
+cus_R2NS1JZJfD6gRN,patybechtlufft@gmail.com,price_1QAG2iHsrWBJzFX2pWrky42a,month,59.90,active,2024-10-15 21:55,Patrícia ferreira
+cus_R2NOiZQmSBkRgU,patybechtlufft@gmail.com,price_1QAG2iHsrWBJzFX2pWrky42a,month,59.90,active,2024-10-15 21:50,Patrícia ferreira
+cus_R2L8sMY1LaKfDZ,oscarcesarleite@hotmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-15 19:31,Oscar  Leite
+cus_R2L857ezy5QGp7,stefania_morselli@hotmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-15 19:30,Stefania
+cus_R2L28KX1sNSE5H,katheleen.gferreira14@gmail.com,price_1QAG2iHsrWBJzFX2pWrky42a,month,59.90,active,2024-10-15 19:24,Katheleen Ferreira
+cus_R2KQNi7NMsMn3X,juliaimparato@yahoo.com.br,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-15 18:47,Júlia Viveiros Imparato
+cus_R2JUtFnFy4O5L3,graziellysantos112@icloud.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-15 17:48,Grazi Silva
+cus_R2Is7ZCDkKHvX5,julianabertoloto@hotmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-15 17:11,Juliana Lopes
+cus_R2HszfVfvr11G3,marcellabonini@outlook.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-15 16:09,Marcella Bonini
+cus_R2HlfAO3h5DQgc,ilannabrto@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-15 16:01,ILANNA SILVA DE BRITO
+cus_R2HeWgROCsThCB,aninha_23@hotmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-15 15:54,Casa
+cus_R2HRFuwbcnw7Tl,raissabino.v@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-15 15:41,Raissa Vieira Sabino
+cus_R2HNhLdeB6IAQy,rinamariari@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-15 15:37,Rina Maria de Jesus Santos
+cus_R2HLG5LW5U47xm,paula.prestes2010@hotmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-15 15:35,Ana Paula Prestes
+cus_R2GgtE6Uiw41WM,bia-bos@hotmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-15 14:54,Bianca  Santos
+cus_R2GFLXMXuAwAjl,ana-nanda-mariana@outlook.com.br,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-15 14:28,Ana clara Almeida
+cus_R2FkdYKAQwMPwD,vitoriaoliveira23@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-15 13:56,Maria Vitória Oliveira
+cus_R2FHuTTjM5ihed,dudinhafranchini@hotmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-15 13:27,Maria Eduarda Franchini
+cus_R2Dr1rwFGzluzj,lauramoreira40@gmail.coml,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-15 11:59,Laura Valentina
+cus_R2DqO7p3ZiGE3J,leticia.atw@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-15 11:58,Leticia Ayumi Tagawa Wada
+cus_R2CBo4UFjN4Ko9,larissa.mfonseca1996@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-15 10:15,Larissa Martins Fonseca
+cus_R2BFGvVk7sKk5U,thais.643@hotmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-15 09:17,Thais Renata Honorio
+cus_R2AmjWfD9D3bCG,nutri.nataliagarcia@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-15 08:49,Natália Garcia Cunha
+cus_R26dHqWfpXknGd,juliana.sgoncalves97@hotmail.com,price_1PsrPFHsrWBJzFX280c9PteR,month,49.00,active,2024-10-15 04:31,Juliana dos Santos Gonçalves
+cus_R25kUv3DOgLgie,annalauura4@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-15 03:36,Ana laura
+cus_R25gkyHvWGrvQ4,lala_laiscristina@hotmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-15 03:32,Lais Cristina Yamashiro Tanaka
+cus_R24ls2s8G0IrsB,marirsp98@gmail.com,price_1PsrPFHsrWBJzFX280c9PteR,month,49.00,active,2024-10-15 02:35,Mariana Rodrigues dos Santos
+cus_R24dC08uCI7dEZ,claudiane.pereira@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-15 02:27,Claudiane Pereira
+cus_R24IHeGHPeASMW,janaina-spinola@hotmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-15 02:06,Janaína Spinola
+cus_R23U952i1geBd1,karolinaandradef@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-15 01:17,Rejaniel de Freitas Soares
+cus_R23TnkoSTmT6k9,phaolaalmeidas@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-15 01:15,Gustavo G Lopes
+cus_R23J2yxs6FOLfY,silmarasousa531@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-15 01:05,Silmara Sousa
+cus_R23Ixo5m53oSqr,natalia.anadao@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-15 01:04,Rua nicolau da Rocha Vitta 33
+cus_R236kOpGwAFiaa,fabiolacarolina@outlook.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-15 00:52,Fabiola Carolina de Souza Santos
+cus_R231B0ECMqJ21w,camilamrezende2@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-15 00:48,Camila Rezende
+cus_R22lVlWiRw1dlE,meavrr@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-15 00:31,Eduarda Aparecida Vieira
+cus_R22aL8xmpEt30G,souza.joycekelly@hotmail.com,price_1PsrPFHsrWBJzFX280c9PteR,month,49.00,active,2024-10-15 00:20,Joyce Souza
+cus_R221qV3nQ7SHez,isisbrotto@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-14 23:45,isis junqueira
+cus_R1zbLAlV0qlZOT,livia_dsm@hotmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-14 21:16,Livia Dell Santo
+cus_R1zL4gxxQaL7UH,acdadvinfo@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-14 21:00,Ana Diniz
+cus_R1yD9wZIiiIv0S,ju.smends@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-14 19:50,JULIANA SILVA MENDES
+cus_R1y8EJQhVC69xm,brunogirotto38@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-14 19:44,Bruno Henrique Girotto
+cus_R1y5BSTrfYqYGt,aidachoukr@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-14 19:42,Aida Choukr
+cus_R1y17NabiQy2C8,ingriddefreitassias@hotmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-14 19:37,Ingrid Sias
+cus_R1xHKQsQKurldX,lalafaria03@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-14 18:51,Laura Faria
+cus_R1xBXFa9P0PPJt,micheligarcia@live.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-14 18:46,Micheli Garcia
+cus_R1x9hp07ribmtt,midias_camilla@outlook.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-14 18:43,Camilla C Neves
+cus_R1wgZlxVKddago,daiaferreira_dcf_@hotmail.com,price_1PsrPFHsrWBJzFX280c9PteR,month,49.00,active,2024-10-14 18:14,Daiane Cristina Ferreira
+cus_R1vuMnodoVvUgo,amorim1nara1@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-14 17:26,Tainara Amorim
+cus_R1voUMsmCle2N5,amandaaparecidacruzoliveira@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-14 17:21,Amanda Aparecida Cruz Oliveira
+cus_R1v3D4WLNx6Fwx,rafaella.donoso13@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-14 16:33,Rafaella Apparicio
+cus_R1uQXP2PeStZBS,oliviafspereira@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-14 15:54,OLIVIA FERNANDA DE SOUZA PEREIRA
+cus_R1uEioOW9MMAGN,teixeira.thu@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-14 15:43,Thuany Teixeira de Figueiredo
+cus_R1taBmkjqw4ZXn,marinasantosokuzono@gmail.con,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-14 15:03,Marina
+cus_R1tSaHCVzVG3JF,ac.polyanalarissabarbosa@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-14 14:55,Polyana L Barbosa
+cus_R1tOK1aVTWKvbH,yaya-lopes@hotmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-14 14:50,Yasmim Lopes Silva
+cus_R1tFrJ0yg4AQGX,juliana-adm@hotmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-14 14:41,Juliana Almeida
+cus_R1tDn6J9XETlsH,bianka.rodriguesm@outlook.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-14 14:39,Bianka rodrigues miranda mandelli
+cus_R1t7MgK6znuT52,debrinharaujo@hotmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-14 14:33,Debora Aguilar
+cus_R1sosik44EE8IG,grazielesn9@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-14 14:14,GRAZIELE SANTOS NASCIMENTO
+cus_R1sEE5BD6SRjws,gabriellacmandrade@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-14 13:38,Gabriella Andrade
+cus_R1sB9HahzpbB2r,mariavitoriaogait@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-14 13:36,Maria Vitória Tiago Inocêncio
+cus_R1s67VxzQtpMDq,gisellysouzalandim@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-14 13:30,Giselly Landim
+cus_R1rqYDgLq2eIO8,juliahelenasps@hotmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-14 13:14,Lucas Gonçalves Santos
+cus_R1rhvmVPcpzTPy,danilnadolny@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-14 13:05,Danielle
+cus_R1rffYqHQbefqT,brendacorreaa@hotmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-14 13:03,Brenda Corrêa
+cus_R1r1gX3WJf3QIR,dudaaformiguinha@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-14 12:24,Maria Eduarda Mello Bernardes
+cus_R1qlrkI7SfEczc,maximojaqueline@yahoo.com.br,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-14 12:07,JAQUELINE MAXIMO DE SOUZA
+cus_R1qhVPn6hMeKlG,thalita.turismoindustrial@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-14 12:03,Thalita costa
+cus_R1qPhlTckfyLyN,brunamedina04@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-14 11:45,Bruna Medina
+cus_R1pGkMpARJj5JC,belcarolina15@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-14 10:34,Izabela Carolina Souza Rodrigues
+cus_R1htoU9vGFwYbD,nathaliampp@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-14 02:57,Nathalia Moraes
+cus_R1hTY4tJQaUje6,larissapammela@hotmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-14 02:31,Larissa Pammela Tomaz
+cus_R1hRygKmnwSgeN,paula_emoreno@hotmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-14 02:29,Paula Moreno
+cus_R1h6fIUZSyDVu1,biancca.teixeira@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-14 02:09,Bianca da Silva Teixeira
+cus_R1h5l2eQovpRT7,ingridy731@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-14 02:07,ingirdy Souza
+cus_R1g3x23FCufe3S,franalmeidaa29@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-14 01:03,Francyelen Imamura
+cus_R1dDHeRo4UQKZg,mari.thie18@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-13 22:07,Marina Thie Hashima
+cus_R1cBGwqHej54av,raysanunciacao@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-13 21:03,Raysa Santos
+cus_R1c1aCwnynBZDf,nulaiakaricia@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-13 20:53,Karicia Castro
+cus_R1bfj2a4kpCdd9,brunaverlypereira@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-13 20:31,Bruna
+cus_R1bUL3ErsrdlKP,glicia.braga@yahoo.com.br,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-13 20:20,Glicia Braga
+cus_R1bRCbtTlJPc9E,kathmoreira_@hotmail.com,price_1PsrPFHsrWBJzFX280c9PteR,month,49.00,active,2024-10-13 20:18,Kathleen Moreira
+cus_R1b0KkjNzOmIJn,fran.csiqueira@outlook.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-13 19:50,Francyne Siqueira
+cus_R1ZzETBl32T5qu,mimi.martins2010@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-13 18:48,Milena Barbarini
+cus_R1YNRL6DQ9LXky,annabelem@me.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-13 17:07,Anna belem
+cus_R1WYqJ6IsdCxuc,luu-salles@hotmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-13 15:15,Luana Salles
+cus_R1Vjtq2HVTxjrU,amanda.arqtorres@hotmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-13 14:23,Amanda Torres
+cus_R1VVsu3hgRvMpO,monsonmellany@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-13 14:10,Mel Monson
+cus_R1V3xaSGHbK59b,ana.beatriz.sava@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-13 13:41,Ana Sava
+cus_R1UHF3I6qQnkdm,sophiavianna.rj@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-13 12:53,Sophia Vianna
+cus_R1TsZFtSg04W4U,jordanacrvlh@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-13 12:28,Jordana Carvalho dos Santos
+cus_R1Thagflm6jSGL,bruhh_soares@hotmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-13 12:18,Bruna Oliveira Soares
+cus_R1TYbDeZH7Z3N3,estherdeoli5@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-13 12:09,Esther de Oliveira dos Santos
+cus_R1TWkuHC9Pw9sy,redoanmariana@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-13 12:06,Mariana Redoan
+cus_R1T9BEVmMjaZiC,paolagprusso@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-13 11:44,Paola Gageiro Pinto Russo
+cus_R1T9SLW3aWxb1M,narantesilva@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-13 11:43,NATACHA ARANTES E SILVA
+cus_R1SZgXmPLakkmG,jslouzada1@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-13 11:08,Casa
+cus_R1Rt5sAYwRcpE0,giovannaalice19@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-13 10:25,casa
+cus_R1RAWoQdFqIcyS,marina.arqui@outlook.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-13 09:40,Marina Alves Amaral
+cus_R1Nj4NDke8iwSS,thaislealmonteiro@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-13 06:07,Thais de Souza Leal Monteiro
+cus_R1LcnxXtNl50Y5,camilayague@hotmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-13 03:56,Camila Yague
+cus_R1LGqptb3pLkXe,lolaestela1@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-13 03:35,Lola Estela Barbosa Castilho
+cus_R1Kjen6s3aS1ey,paolamilazzobs@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-13 03:01,Paola Milazzo
+cus_R1KeRsKRsz4bPZ,lannatakada@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-13 02:57,Avenida Paulista
+cus_R1KMmLtRqDQCEP,raygrande@hotmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-13 02:39,Raylane Grandé
+cus_R1KFZlETG3ey9z,chiara15lauro@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-13 02:32,Chiara Lauro
+cus_R1JnUTeYGTuZUB,gabyalm.ga@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-13 02:03,Gabriela Almeida Arruda
+cus_R1JalpA2jcleAH,nataliaguimaraesnutricionista@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-13 01:51,Natália Guimarães Silva
+cus_R1J5qRLtowrgQh,jucallegario@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-13 01:19,Jullyana Callegario
+cus_R1J4jbM1WkGMvt,mariholiveirasantos@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-13 01:19,MARIANA OLIVEIRA SANTOS
+cus_R1Hb6uv89oIkPO,adeliane.ks@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-12 23:47,Adeliane Laísa Santos
+cus_R1Gjff8rHzcKhA,ingridfernanda65@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-12 22:53,Ingrid  Caldeira
+cus_R1FJD48Eo16bPb,marilorencetti@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-12 21:25,16700015
+cus_R1EhmzVkzg3J2G,melolais16@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-12 20:48,Lais Melo de Souza
+cus_R1ES8O125RIVuX,pamelaalteff@yahoo.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-12 20:32,Pâmela
+cus_R1EL1vQhX0El3R,bruna.limaa@hotmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-12 20:26,Bruna Lima ferreira
+cus_R1DgMnA6leARZ8,jumccunha@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-12 19:44,Juliana Machado
+cus_R1DX8ADYEFKSmZ,juliafrony@icloud.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-12 19:36,julia frony de oliveira macedo
+cus_R1BpEth678cgTb,Raquellealr@outlook.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-12 17:50,Raquel Leal
+cus_R1AjMmhSGYL6jM,castilhovalentina1@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-12 16:42,valentina castilho
+cus_R1AifUODB5f7C4,annaluizaribeiros@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-12 16:41,Anna Luiza Ribeiro Soares Carvalho
+cus_R1AhnxgxVgE3I1,Jessicaf.silva@outlook.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-12 16:39,Jessica F Silva
+cus_R1AM5jTAVVQGIr,carolmorgaos2@hotmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-12 16:18,Maria Caroline
+cus_R19jZga6wrPFgP,laura.besteti.campos@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-12 15:40,Laura
+cus_R19jotbFzaclK5,livia.puccinelli.wn@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-12 15:39,Livia Puccinelli
+cus_R19GjKm6iNuhWx,milena.l.p@hotmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-12 15:11,Milena Luísa Parente
+cus_R19EzsSzBM0srp,tiasopita@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-12 15:09,Ana Carolina Oliveira de Menezes
+cus_R19DgBrC7tPGeZ,rafa1408adami@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-12 15:08,Rafaela dos Santos Adami
+cus_R192TX4omFMixn,leticiacardoso_comercial@hotmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-12 14:56,Leticia a cardoso
+cus_R18rFZWMkGT9JH,carolfoliveira04@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-12 14:46,Carolina Oliveira
+cus_R18PP5PDds1LWU,agatha.ouza@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-12 14:18,Agatha Beatriz
+cus_R18PcykMIzg0Pz,pimentelyasmin@outlook.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-12 14:17,Yasmin Pimentel
+cus_R17wt8lLk6kXdi,yasmincas28@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-12 13:49,Yasmin Cardoso Araujo Silva
+cus_R17oFsR2Y4oZYD,lindainestaurino@hotmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-12 13:40,Linda Inês Taurino da Cruz
+cus_R17j4zdqfyXbYB,caplorena22@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-12 13:36,Quartel da PMMG
+cus_R17cumiOZHNQBd,ekmmelo@gmail.com,price_1PsrPFHsrWBJzFX280c9PteR,month,49.00,active,2024-10-12 13:28,Ellen Karoliny Martins de Melo
+cus_R17Iod36SA74aX,karine.dssilva@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-12 13:08,Karine Dos Santos Silva
+cus_R16vSgiCIO27Pr,amandafonsecca@hotmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-12 12:45,Amanda Anjos
+cus_R16cI2zfreMIzv,valvendas100@gmail.com,price_1PsrPFHsrWBJzFX280c9PteR,month,49.00,active,2024-10-12 12:26,Camila Gregório Santana
+cus_R117dcRvhjHaRl,lucasbeatriz020@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-12 06:46,Beatriz Lucas
+cus_R0yXjxICx07C02,bia_ribeiro18@hotmail.com,price_1PsrPFHsrWBJzFX280c9PteR,month,49.00,active,2024-10-12 04:05,BEATRIZ RIBEIRO MACHADO
+cus_R0xkjfvtguuDxL,lh.tomie@gmail.com,price_1PsrPFHsrWBJzFX280c9PteR,month,49.00,active,2024-10-12 03:17,Letícia Tomie Higa
+cus_R0x0vYVlnfuNRI,pri.ppv@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-12 02:31,"Rua Joao Pio Vaz, 379, Vila Fleming"
+cus_R0w9WefxA5UIHR,lessas.bm@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-12 01:37,Barbára Léssa
+cus_R0vuhayjxfiEeJ,juliana.oguma@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-12 01:22,Juliana Miki Oguma
+cus_R0vkgXu4oPe9o2,thamiresluzpsi@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-12 01:13,Thamires da Luz
+cus_R0vVGNlxp73pV3,anacrismarini@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-12 00:58,Ana Cristina marini
+cus_R0vC6KYNEqH5UZ,prih.baragatty@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-12 00:38,PRISCILA SOARES DIAS
+cus_R0v5VRzyszAKdo,lailabe@hotmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-12 00:31,Laila do Nascimento Silva
+cus_R0uRZ9hRqatxDh,jessica_guw@hotmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-11 23:51,Jessica Ambrósio Bessa
+cus_R0tIUVmFt9nFH6,juliaceschims@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-11 22:40,Julia Ceschim
+cus_R0sXBKeZGA55lt,dani.vicentini@hotmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-11 21:53,Daniely Vicentini Lopes
+cus_R0sPzmDFKs9fIB,doris.6@hotmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-11 21:45,Doris Dutra de Souza
+cus_R0qTHyMyaoBLxE,luisamoura27@outlook.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-11 19:46,Luisa Moura de Almeida
+cus_R0pu21eEgRb5d5,natasha_sud@hotmail.com,price_1PsrPFHsrWBJzFX280c9PteR,month,49.00,active,2024-10-11 19:10,Natasha Teixeira
+cus_R0pJHcMq9zwA6I,brendinhalins@gmail.com,price_1PsrPFHsrWBJzFX280c9PteR,month,49.00,active,2024-10-11 18:33,Brenda Lins
+cus_R0pG8I0V9wYbxj,angelinaaraujo1@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-11 18:30,Angelina
+cus_R0o0PIlJm6sk4r,victoria.cardoso.toledo@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-11 17:12,Victoria
+cus_R0nptWnPoIQ2Rj,ranieledroid@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-11 17:02,Raniele Teixeira
+cus_R0nVll6EOAZPyg,juliajujuba28@hotmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-11 16:41,Julia Rodrigues
+cus_R0nI0T6zVBViJ1,ymansur96@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-11 16:28,Yasmin Oliveira Letaif Mansur
+cus_R0nCEedd2gPT2U,biayolandaseron@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-11 16:22,Beatriz Seron
+cus_R0lRjbyQdhH3WP,bia.mitsuda@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-11 14:33,Beatriz Mitsuda
+cus_R0lNbrkXwC1QkC,geovannataeko0@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-11 14:30,Geovanna Taeko R M
+cus_R0lGYhnpD4fwoo,marina_nogueira_pires@hotmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-11 14:22,Marina Nogueira Pires
+cus_R0lCOXTDMIJgOL,guiellys@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-11 14:18,Gabriele santos
+cus_R0lAiB5dpaJCZm,camilaalvesxavier7@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-11 14:17,Camila Alves
+cus_R0l5PxBhue0RH4,gabriella.tisott@hotmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-11 14:11,HANS LUDWIG TREVISAN TISOTT
+cus_R0kGWBlCaP3VIB,santana.paiva.julia@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-11 13:20,Julia santana de paiva
+cus_R0k49Az2vyflOm,marizakimi@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-11 13:08,mariana zakimi
+cus_R0jxk17cGkExud,hannaborges33@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-11 13:02,Hanna de Freitas Borges dos Santos
+cus_R0jv7V6LJfFDW4,mary.praxedes@icloud.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-11 12:59,Maryane Praxedes
+cus_R0jtm3KpuFdIk1,juliagarciafarias@hotmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-11 12:58,Julia Garcia Farias
+cus_R0jou3V86zY8Ds,larissakarenmachado1@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-11 12:53,Valdelicia Machado
+cus_R0jgncLt9EKcy6,beatrizsangyklein@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-11 12:44,Beatriz sangy klein
+cus_R0jOpHZUCJlsPC,vitoria.altomani04@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-11 12:27,Vitoria
+cus_R0j8ctJmmkWGIz,anacaroline.valin@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-11 12:10,Ana Caroline Valin
+cus_R0j6FIOmtx3wWC,glauciane45@yahoo.com.br,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-11 12:09,Glauciane Antunes
+cus_R0i97vhfWrgAX2,anacarolinaoliveirasantos.2@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-11 11:09,Ana carolina Oliveira santos
+cus_R0hmczG66g1ZTR,nandanohra@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-11 10:47,Fernanda Nohra
+cus_R0hRg3Eo1de8jp,camila.smacruz@gmail.com,price_1PsrPFHsrWBJzFX280c9PteR,month,49.00,active,2024-10-11 10:26,Camila Saldanha marques
+cus_R0gm8pwCTZh1Ra,Correa.gabriela46@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-11 09:44,Gabriela Helena
+cus_R0beNoNvo3E68C,caroline.martins@unesp.br,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-11 04:27,Caroline Martins
+cus_R0aPoG0ssS6w9k,gabriela_rebolso@hotmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-11 03:10,Gabriela Rebolso
+cus_R0a5RDO8M9oQKi,mariaritamh@hotmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-11 02:49,Maria Rita Mello Hahne
+cus_R0Zkg9eY3pq8qc,niaraujos@hotmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-11 02:28,Alana Araujo da Silva
+cus_R0ZblTgpHvGOGP,xkarinaoliveirax@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-11 02:20,Karina de Castro de Oliveira
+cus_R0ZXAilpUurYR5,marialuizapoltronieri@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-11 02:15,Maria luzia Poltronieri
+cus_R0YXC8dgntd5yZ,analimaaraujoo@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-11 01:14,Ana Araujo
+cus_R0XibrDZPqR7yX,scherollyprofissional@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-11 00:22,Scherolly Amaral
+cus_R0XTjlexITwdQB,oliveirayllen@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-11 00:07,Yllen S Oliveira
+cus_R0WGRFSiNRtSiM,patezbruna@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-10 22:53,Bruna lemos patez
+cus_R0VZ9i3NHIvStA,giih.gomes31@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-10 22:09,Giovana Gomes 
+cus_R0ToPOUB9SJu1Q,anaccaroline22@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-10 20:21,Trabalho
+cus_R0TnQX4oH8EitT,eduardap.arq@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-10 20:19,Eduarda
+cus_R0TjRJPqZdtpY5,mariaeduardavidoi@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-10 20:16,Duda Vidoi
+cus_R0TimyTAWWVRFG,brunabelluzzoo@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-10 20:14,Bruna Pozzetti
+cus_R0TggKAq0yGYn5,brunalgraca@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-10 20:12,Bruna Graça
+cus_R0TeN14eHyoKac,moorecatarina@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-10 20:11,Catarina R. Moore
+cus_R0TKBmLLT5PHTJ,jpfingolo@gmail.com,price_1PsrPFHsrWBJzFX280c9PteR,month,49.00,active,2024-10-10 19:51,Júlia Fingolo
+cus_R0TBWkUvCi0fvJ,layza.myllena@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-10 19:41,Layza
+cus_R0T1d3ZX9dVtaS,cintiacarolinecsouza@gmail.com,price_1PsrPFHsrWBJzFX280c9PteR,month,49.00,active,2024-10-10 19:31,Cintia Caroline da Costa de Souza
+cus_R0SPTdkpJUcka1,xgabrielaborges@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-10 18:53,Gabriela Borges Freitas
+cus_R0RriBqyRRbbzU,barbara.avila@hotmail.com,price_1PsrPFHsrWBJzFX280c9PteR,month,49.00,active,2024-10-10 18:19,Bárbara Avila de Souto
+cus_R0RA4oa6ccUGv8,karinekeppler@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-10 17:36,Karine Keppler
+cus_R0QoJti1xQM6Lr,raquelgbernardes@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-10 17:15,Raquel Gil de Lima Bernardes
+cus_R0QoGRYHxj2Qis,deboramywa@gmail.com,price_1PsrPFHsrWBJzFX280c9PteR,month,49.00,active,2024-10-10 17:14,Débora mywa
+cus_R0QTGDupdAbamb,juliabispo106@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-10 16:53,julia bispo
+cus_R0QPVqrrY2JAa8,leporestephany@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-10 16:49,Stephany Lepore
+cus_R0QExjeLPlSYKg,mayara.quintanilha@soulasalle.com.br,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-10 16:38,Maya Brandt Quintanilha
+cus_R0P5w4HJcHMKU8,amandamlgomes@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-10 15:28,Amanda gomes
+cus_R0P3KMRJLZ3g5j,mapamariana2005@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-10 15:25,MARIANA INEZ  MAPA OLIVEIRA
+cus_R0OyWsJQ35Z284,marianacrosa16@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-10 15:21,Mariana Rosa
+cus_R0OI57IrhvJIcu,bellroccha@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-10 14:39,Isabella Guedes
+cus_R0O3wHFp8jTnRr,barbaracataofm@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-10 14:23,Bárbara Catão
+cus_R0NzRy6Uo2Q3Bz,jediassantos@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-10 14:19,Jessica Dias
+cus_R0Neaswc5IBmJH,13salamme@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-10 13:58,Erika Salemme de Moraes
+cus_R0NC3kxMseNtxF,debora.copelli@hotmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-10 13:30,Débora Copelli
+cus_R0MliZdCmhDQQx,jr.jessica.ramos@hotmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-10 13:03,jessica alves ramos
+cus_R0MhpqWG4TUFnz,babby_joy@yahoo.com.br,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-10 12:59,Barbara Ramos
+cus_R0MbWDEQiWWhrf,anaclaraorichio@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-10 12:53,ana clara machado
+cus_R0MSsuJcsJyqXB,tainarabalves@hotmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-10 12:44,Tainara Blanco alves
+cus_R0MRQlp6SGiW8x,nicoledecastro1@yahoo.com.br,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-10 12:43,nicole castro
+cus_R0MJrv7vfIJAn5,nathi.almeida0501@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-10 12:35,Nathalia Almeida de Laia Mercadante 
+cus_R0M9l5ArQDND6k,ocarvalho.aline@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-10 12:25,Aline Carvalho
+cus_R0LyPdaMHgoKSX,danielatornisiello@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-10 12:14,Daniela Tornisiello
+cus_R0LoQCGdQrqu0M,juliabigio@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-10 12:05,Julia Bigio
+cus_R0LiuZLO8RxyJZ,ylana.sou07@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-10 11:58,YLANA DE SOUSA PEREIRA
+cus_R0LXpFgOEwGETE,aguiareduarda090@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-10 11:47,Eduarda Aguiar
+cus_R0L69MTPoaGEuR,r.almeida@hotmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-10 11:21,Raquel de Almeida Brandão
+cus_R0KjZbKvPhwGdn,marianelucia2601@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-10 10:57,Bioghen (Para Mariane)
+cus_R0Jo6PJm6Lnsl4,mariaeduardagodoy2507@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-10 10:00,Maria Eduarda Godoy
+cus_R0JKFrQ9bh9isw,juliamarinho-@hotmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-10 09:30,Julia Teixeira
+cus_R0JJk1LsD3GMPT,marcelacristina256@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-10 09:30,Marcela Silva
+cus_R0JEfxiSZBdoJN,leticia_galhardi@hotmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-10 09:25,Letícia Nunes
+cus_R0Co9Vk6dg1zwC,godoy.mikaela12@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-10 02:46,Mikaela Godoy
+cus_R0CjI81i1ZzJKz,gabriella.sales42@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-10 02:41,Guilherme dos Reis
+cus_R0CNLp9g3CLGeg,janaina.jajamorais1@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-10 02:19,Janaina Morais
+cus_R0C5PuQqOss34T,yamaki_juliana@hotmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-10 02:01,Juliana Tiemy Yamaki
+cus_R0BqKr6PAF9nRj,ingridlahrm@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-10 01:46,INGRID MOURA
+cus_R0BmtiHJ2IdFnB,ydemarck@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-10 01:42,yasmin demarck
+cus_R0AcTEWzgMAqhT,caahqueiroz.cq@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-10 00:30,Camila
+cus_R0AYnmeOUxlGkj,juliadmeloneves@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-10 00:27,Júlia Melo
+cus_R0ALUUNGgGrLJE,alexia.santana1993@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-10 00:14,Alexia sprocatti de santana
+cus_R0AKiid7uBSP1g,bianca.pacheco.rj@gmail.com,price_1PsrPFHsrWBJzFX280c9PteR,month,49.00,active,2024-10-10 00:12,Bianca Melo
+cus_R09tqaJiFReg4r,leticiagabrielle2908@outlook.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-09 23:45,Laura alves silva 262
+cus_R09nIktRdXugrV,ybfreitass@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-09 23:40,Bruna Freitas Antunes de Oliveira
+cus_R09RmfSzUZMOxM,luca.fonseca@brandlovrs.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-09 23:17,Luca Fonseca
+cus_R08BmqGpF4YPcZ,sousa.rafa.cruz@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-09 22:00,Rafaela Cruz de Sousa
+cus_R03XLTZTuPWIab,melsoares1312@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-09 17:12,Melissa Ferreira Soares
+cus_R03BoF4GDm57su,luizapl2002@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-09 16:49,Luiza Piol Lombardi
+cus_R03AQgPKlbj986,aureadinha@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-09 16:49,Aurea Sobrinho
+cus_R02PSddxu42jAB,gsantoscindy@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-09 16:01,Avenida Nossa Senhora Aparecida 183
+cus_R01WshPC45DLAr,mirellasouza53@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-09 15:07,Mirella Souza da Silva
+cus_R01NzpoiuNXX2n,tha.borges_outor@hotmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-09 14:58,Thamires b outor
+cus_R001J3krjQuNAe,danny-rezende13@hotmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-09 13:34,Danniely Rezende
+cus_QzzY8owLDOTjvo,maiara1916@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-09 13:04,Maiara
+cus_QzzV9T6PA1oNm3,icbenatti10@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-09 13:01,Isabella C Benatti
+cus_QzzBdpe90VGfR1,roberta.schottz@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-09 12:41,Roberta Schottz Espíndola
+cus_QzysJGhyH3wxCe,thayna_dias13@hotmail.con,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-09 12:23,Thayná Dias
+cus_QzyVZyRxFDUT1T,carol_strabelli@hotmail.com,price_1PsrPFHsrWBJzFX280c9PteR,month,49.00,active,2024-10-09 11:59,Ana Carolina Moreira Strabelli
+cus_QzxijJBZSiAiH5,alexandraroque9@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-09 11:10,Alexandra Roque vilaruel de lima
+cus_QzxLgzhvuBEoz8,ana.calixto@hotmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-09 10:47,Ana Carolina Calixto Gouveia
+cus_Qzx3uHK6ZjXnrJ,kah.castrof@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-09 10:30,Kamila Castro
+cus_QzwhY3vjqS6ikt,tainah.br@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-09 10:08,Tainah Alves
+cus_Qzw2JWWltSGTzG,brunarodrigues2311@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-09 09:26,Bruna s Rodrigues
+cus_Qzw0c43K1KBeUD,carolina.flavia@hotmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-09 09:24,Carolina Flávia silva
+cus_QzunJMnLg8tQJg,gabididi@hotmail.com,price_1PsrPFHsrWBJzFX280c9PteR,month,49.00,active,2024-10-09 08:09,Gabriela Rodrigues
+cus_QzuhWtAf4ajwJM,rafaellaperdone@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-09 08:03,Rafaella Perdone
+cus_Qzq909dwevOjrb,breicekaren@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-09 03:21,Escritorio Breice
+cus_Qzpb7C0jnjAkzt,brunadalagoa@hotmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-09 02:48,Bruna Dalago
+cus_QzpMDSp6lPhNiA,julianasantiago370@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-09 02:32,Juliana Santiago
+cus_Qzp9wEoSVe9HNQ,tprista@outlook.com.br,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-09 02:19,Thais Farah
+cus_QzmjNVREv2VW3A,steffanypereira@live.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-08 23:49,Steffany Freitas
+cus_QzkmSzoojscaCH,angelslvdr@outlook.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-08 21:49,Angelita Salvador
+cus_QzhZKSCA77E7Rr,ingrid.7199.freitas@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-08 18:30,Ingrid Alves Freitas
+cus_QzhD0gz4qGf4xF,allyda.vanessa1@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-08 18:08,Vanessa Állyda Primo Benvindo
+cus_QzgN8KMPeBTn88,isadora.telo@hotmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-08 17:16,Isadora Telo
+cus_QzgAvYlwqKtx6B,fgcoladete@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-08 17:02,fernanda goldoni coladete
+cus_Qzg9oxTMmEVDxg,annabiih@icloud.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-08 17:02,Ana Beatriz Lodovico
+cus_Qzfql0DcZQa2Ak,luh.sabatini@hotmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-08 16:43,Luana Sabatini
+cus_Qzfcb7VxwypsUF,thaishelen2009@hotmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-08 16:28,Thais Helen Damasceno Coelho
+cus_Qzf1i7fVxaibkX,luanamesqta@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-08 15:51,luana mesquita
+cus_QzeaptpSkLxzFE,leticia.andrade241198@outlook.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-08 15:25,Letícia Andrade
+cus_QzeXjx8tQaSLAe,luana.reis.nunes28@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-08 15:21,Luana Reis
+cus_QzeKt89tC2mXG3,leticiagobi@hotmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-08 15:08,LETICIA GOBI TORMENA
+cus_QzdweaGuY54WMd,thamyris.q.a@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-08 14:44,Thamyris Quadros de assis
+cus_QzdeLNa8KU6SjR,louisecunhacabral14@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-08 14:26,Louise
+cus_QzdXfsEMZpW4px,gabriela.betencourtt@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-08 14:19,Gabriella Betencourt
+cus_QzdI1GfKaqHO6f,izabellarodarte@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-08 14:05,Izabella Rodarte de Souza
+cus_QzdIsjnqB8D3Mp,thatianeverly@hotmail.com,price_1PsrPFHsrWBJzFX280c9PteR,month,49.00,active,2024-10-08 14:05,Thatiane  V mendes
+cus_QzdD5R7HUpYm7S,nathalia_marcondes@rocketmail.com,price_1PsrPFHsrWBJzFX280c9PteR,month,49.00,active,2024-10-08 13:59,Nathalia Marcondes
+cus_Qzd8nVCzAjujwG,luanna.costa.colombo@hotmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-08 13:54,Luanna Silva Costa
+cus_QzcPmNqlTibvg7,oliveiranacarol77@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-08 13:09,Ana Caroline
+cus_QzcAg0638ErWEm,amandas.oliveira@outlook.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-08 12:55,Amanda Oliveira
+cus_Qzc6EIrPLE3fVO,gabriellegeta@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-08 12:50,Gabrielle Aparecida da Silva
+cus_QzbeYxOvVRolXn,carolinemoura1204@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-08 12:22,"Rua bali, lote 2, quadra 13 N74. CEP 25255352 - Jardim Olimpo, Duque de Caxias"
+cus_QzaznTofWb7k2w,Rafacarrieri114@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-08 11:41,Rafaela
+cus_QzanGteKB2YHqv,carolnhamaia@gmail.com,price_1PsrPFHsrWBJzFX280c9PteR,month,49.00,active,2024-10-08 11:29,Caroline Maia
+cus_Qzab3O6FB35MMv,thais.taveira1@hotmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-08 11:17,Thais Taveira
+cus_QzSkJ3MfKLLIGy,sairafy2000@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-08 03:10,Saíra Fernandes Yamachi
+cus_QzRureieRO05cQ,agatha.campelo@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-08 02:19,Agatha
+cus_QzQsTaNwIqqUIA,naisy.om@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-08 01:14,Naisy Julia de Oliveira Moura
+cus_QzQhjiNUka91sW,sthe.campos@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-08 01:03,Sthefani Campos
+cus_QzQYouN4eWbAiy,monihort@icloud.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-08 00:55,Monique
+cus_QzQI0X9nrB4YHw,aidachoukr@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-08 00:39,Aida Choukr
+cus_QzQFXEEVWUd7fS,karlanayara@rocketmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-08 00:36,Karla  Martins
+cus_QzPx5srYwxibyd,alineos1987@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-08 00:17,Aline Oliveira Penteado 
+cus_QzPSxjKea2FQmy,moniqegoncalves@icloud.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-07 23:46,Monique  Martins
+cus_QzPQlbKMtJpTaQ,biancamellorahal@hotmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-07 23:44,Bianca Melo
+cus_QzPJAacyauKF1K,gabriellyrezende20@hotmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-07 23:38,Gabrielly Rezende
+cus_QzPEZyza183LrI,emanuelesantana@icloud.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-07 23:32,Emanuele Oliveira Santana
+cus_QzPCH1kOCojCQe,lavinia05casagrande@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-07 23:31,Lavínia Casagrande Altoé
+cus_QzP20PrBuDyAID,jaque.dif@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-07 23:21,Jaqueline reis
+cus_QzOtOPQAumz2FJ,fassilva98@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-07 23:11,Fabiola Sales Silva
+cus_QzOLEEnA9gnO0I,amandafernandesdt@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-07 22:38,AMANDA CARVALHO FERNANDES
+cus_QzNRIzAjIfI5uK,larissa.vitoria1106@outlook.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-07 21:41,Larissa vitória Santos da diva
+cus_QzMsSJm5QOejQZ,jessica_alves.m@hotmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-07 21:06,JESSICA ALVES DE MORAIS
+cus_QzMdgWuCQGFXxn,juliaxrodriguess@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-07 20:52,Julia Rodrigued
+cus_QzMMKDKNJX8FRG,debittencourt@hotmail.com.br,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-07 20:34,Debora bittencourt
+cus_QzL0Khbk7Wk0YV,flaviamedin13@hotmail.com,price_1PsrPFHsrWBJzFX280c9PteR,month,49.00,active,2024-10-07 19:11,Flavia Medin
+cus_QzK1emlQOF3FrT,rafaelaggarcia26@hotmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-07 18:09,Rafaela Garcia
+cus_QzJeofbGvDz792,roza.rafaela99@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-07 17:46,Casa
+cus_QzJZ8w8MdlYHar,vitoriaalexandra3e@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-07 17:42,Vitória Alexandra Carolina Alves
+cus_QzISO2P1GvJuHj,damaris.leite@hotmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-07 16:32,Damaris
+cus_QzI9Hliku9Vm3Z,isadoracaldara@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-07 16:13,Isadora Caldara Pioli
+cus_QzHuZ4AsLEF44X,isabelasalazar690@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-07 15:58,isabela
+cus_QzGZAxGWKH2nT6,julianaaraujo14@outlook.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-07 14:36,Juliana  Magalhaes 
+cus_QzFQPEdlKKntKS,moraes_analaura@hotmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-07 13:24,Ana laura Moraes
+cus_QzFMfnO1NmF4gF,marcellam.santos@outlook.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-07 13:20,Marcella Soares
+cus_QzF541BQVWSoOG,brazhta@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-07 13:03,Agatha Braz
+cus_QzEeUGMaAXXL8w,melrianestefanie239@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-07 12:36,Melriane Stefanie
+cus_QzEGW6TGLpHiAn,angelarriel07@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-07 12:12,Maria Arriel
+cus_QzDqhIzPBJZ1v6,karolyne_torres@outlook.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-07 11:47,Maria Torres Belini
+cus_QzDgok4lBGerPm,larissauzunpbom@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-07 11:36,Larissa Uzun
+cus_QzDVUUurx246qn,paz1amara@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-07 11:25,amara paz
+cus_QzDGLJ59qTDQJw,vicsavilaa@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-07 11:11,1 Soares
+cus_QzBGTzR7VrOGLe,sofiamay0994@outlook.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-07 09:06,Mayara
+cus_QzB9x5HhS2bRsy,sofiamay0994@outlook.com,price_1PsrPFHsrWBJzFX280c9PteR,month,49.00,active,2024-10-07 08:59,Mayara
+cus_Qz6EJfLwnu52TN,anaelisa1432@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-07 03:55,Casa
+cus_Qz43oatTP0CJCM,nathalia.mattos436@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-07 01:40,Nathalia Mattos
+cus_Qz3dfIVqKChEXj,nathaly.sato@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-07 01:13,Nathaly Sayuri Sato
+cus_Qz36qWO986upZ5,nizer.dede@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-07 00:40,Andressa Santa Maria Nizer
+cus_Qz2sSjz2t7U7Dk,rafa_mnds@hotmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-07 00:26,Rafaela  Mendes
+cus_Qz2TpiEQBrOG4K,carlariosdoamaral@yahoo.com,price_1PsrPFHsrWBJzFX280c9PteR,month,49.00,active,2024-10-07 00:02,Carla  Amaral
+cus_Qz2PBsKFHbeR2N,isabelle.silva41@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-06 23:58,Isabelle Santos
+cus_Qz1wAHX4iZfkHd,meduardartavares@gmail.com,price_1PsrPFHsrWBJzFX280c9PteR,month,49.00,active,2024-10-06 23:29,Maria Eduarda Reis Tavares
+cus_Qz0ISXNwaGkIsr,michellystavares@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-06 21:47,Michelly Tavares
+cus_Qz0EyIH34jStmL,elisamaa_heize@hotmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-06 21:42,Elisama Heize
+cus_QyzZIN0x4v8DnP,rodrigofantauzzi@yahoo.com.br,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-06 21:01,Rodrigo Santana Fantauzzi
+cus_QyzEnddBMAHKkU,taina.kco@hotmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-06 20:41,Taina k c oliveira
+cus_Qyz8mRMJThCSsT,ludrodrigues17@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-06 20:34,Ludmila Rodrigues Augusto
+cus_QyyqujKrdQ0zF1,sthe.money00@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-06 20:17,Sthefany Basilio
+cus_QyyLXHBGbbxOQB,larissakikika20@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-06 19:46,Larissa Fonseca Rodrigues
+cus_QyyJUZaFdaNJZ3,danipatricio94@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-06 19:44,Daniela Patricio
+cus_Qyy36W0HmjIOxB,leticiavilasboas77@hotmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-06 19:27,Leticia S v boas
+cus_QyxSxlOP3bpoY9,carolineaborges@hotmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-06 18:50,Caroline Angelo Borges
+cus_QyxRGjFbQF1Yft,thaisbragaia@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-06 18:49,Thais Bragaia
+cus_QyxP8F1DfcBWms,contatobarbaranicocelli@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-06 18:48,Barbara Luiza Nicocelli
+cus_QywIGqI4F3h0SN,fe.kenan@hotmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-06 17:38,Fernanda williams kenan
+cus_QyvSC6qkV8BFeU,sthefannyalne@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-06 16:46,Sthefanny de Almeida Neto
+cus_QyvSw1KHUqjc6B,brunafca@hotmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-06 16:46,Bruna F Camargo
+cus_QyvIO9a47YNbHD,dayanasalesmartins@hotmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-06 16:36,Dayana Martins
+cus_QyuSEzlugI0dpy,lorrayne.surita@hotmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-06 15:44,Lorrayne bolonha guimaraes
+cus_QytVPQ9HOWrjze,spsouza72@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-06 14:45,Stéphane Castro Souza
+cus_QysdlZ9YbHJNlm,marinabsalles@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-06 13:51,Marina Salles
+cus_Qys0UnYrjfS0tN,lucianabelocp@gmail.com,price_1PsrPFHsrWBJzFX280c9PteR,month,49.00,active,2024-10-06 13:12,Luciana Sousa
+cus_QyrrvwwXgITzey,luanamgl@hotmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-06 13:04,Luana Degasperi
+cus_Qyrrra06nvyJzE,carolina_holmes@yahoo.com.br,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-06 13:03,Carolina Holmes
+cus_QyrOEZtuF0k7uS,kahbortoluzzi@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-06 12:35,Karina Bortoluzzi
+cus_Qyq3DWTuHEkQbv,lalazinhamendonca@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-06 11:11,Larissa Mendonça
+cus_QypkIG8ybY0TDr,anacarolinacastro@aol.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-06 10:53,Ana Carolina Castro de Almeida
+cus_QypZL1OG4ggO16,milenechausse@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-06 10:41,Milene Chausse
+cus_Qyol6ucQVptpCb,iasminccorreia123@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-06 09:52,Iasmin Correia
+cus_QyklMpfLKdWcZn,alineflim8@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-06 05:43,Aline Lima
+cus_QykX7e2l2Ji2mk,lucianamdmelo@hotmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-06 05:30,Luciana melo
+cus_QyiLhFfBKu1hu8,may.louven@hotmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-06 03:14,Maiara Louvem
+cus_QyiCPokV9yYTTN,amandalemes72@hotmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-06 03:04,Amanda  Souza 
+cus_QyhweawGtkSgck,anaclaudia.s2@hotmail.com.br,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-06 02:48,Ana Claudia
+cus_QyhpNV1FOjVYLz,guturcato@me.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-06 02:42,Gustavo Turcato
+cus_QyhamAq14YFfiN,carool-turganti@hotmail.com,price_1PsrPFHsrWBJzFX280c9PteR,month,49.00,active,2024-10-06 02:27,Carolina Berti Turganti
+cus_Qyh8HmO28qkYWG,amandafari15@hotmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-06 01:58,Amanda  Medeiros
+cus_Qyg4ZZlscnRFGz,fernandaribeiro.psi3@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-06 00:52,Fernanda Ribeiro
+cus_QyfuhvKDfB65q4,anapaulacristofolini@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-06 00:42,Ana Paula Roberti Cristofolini
+cus_QyfOJ3Am3tm7bF,giriva14@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-06 00:11,Giovanna Riva Sales
+cus_Qye8o6uzy0dEuL,marcellesoliv@yahoo.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-05 22:52,Marcelle  Soares
+cus_Qyd7xFVu1TjIio,mmartins2508@outlook.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-05 21:50,Mayara Bezerra Martins
+cus_QyccopbCoHfS8x,bfukunari@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-05 21:18,Beatriz Fukunari
+cus_Qybo3AGkrhZm8F,renatacoegomes@gmail.com,price_1PsrPFHsrWBJzFX280c9PteR,month,49.00,active,2024-10-05 20:28,Casa
+cus_Qyagy0bCv7YMJV,luanabazo@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-05 19:18,Luana Bazo
+cus_QyaWq9iC4eGwXY,eduarda.souza93@hotmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-05 19:09,Eduarda pinto de souza
+cus_QyZvbZ0MgW0xqT,alinedefreitasm@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-05 18:31,Aline
+cus_QyZK8E4nWX9tNS,emillycristina29@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-05 17:55,Emilly
+cus_QyYt5FG2fGMWi0,beatrizpcastrobia@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-05 17:27,Beatriz Castro
+cus_QyYrT8v8JYLbCD,carolsardou96@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-05 17:26,Carol Sardou
+cus_QyYmvrhrWIvcs6,kivianog@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-05 17:20,Kivia Nogueira
+cus_QyYSGwrDA5txON,brunaalms@gmail.com,price_1PsrPFHsrWBJzFX280c9PteR,month,49.00,active,2024-10-05 17:01,Bruna Almeida silva 
+cus_QyYQkLDbZPjAqD,moralesisabella12@hotmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-05 16:58,Isabella morales
+cus_QyY9HzUwBeWO57,p.ferreira_silva@yahoo.com.br,price_1PsrPFHsrWBJzFX280c9PteR,month,49.00,active,2024-10-05 16:42,Patricia Ferreira
+cus_QyXhRublnNyeZg,batistaellen024@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-05 16:13,Meriele Batista da Silva
+cus_QyXT8FMmkHzOQz,acsmurca@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-05 15:59,Ana Clara Souza Murça
+cus_QyWsfzxEIEVzuq,karolinafranca15@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-05 15:22,Karolina França
+cus_QyWNjkCw0k2Exu,eduarda.franco11@hotmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-05 14:51,Eduarda Franco
+cus_QyW7KCxklRFhaJ,gabriellypolaquini@hotmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-05 14:35,Gabrielly Polaquini
+cus_QyVfn9m7iVhVNs,stealbeach@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-05 14:07,Beateiz
+cus_QyVe0j0aNzFBEM,nayanakelly26@hotmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-05 14:06,Nayana Vieira
+cus_QyVHy970ENGmzW,luisaaleite@icloud.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-05 13:43,Julia Leite
+cus_QyUlc3n6Q7Sqkj,fabianassishs@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-05 13:11,Fabiana Helena Silva Assis
+cus_QyU6q9ccN3xW2K,k.orodrigues@hotmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-05 12:30,Kelly Grava
+cus_QyTiIfEMUE7Y07,luizaalvesdemattos@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-05 12:06,Luiza Alves de Mattos
+cus_QyTgxw5Ux5SRlP,fernandesflaviag@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-05 12:05,Flavia Fernandes
+cus_QySPFgqJrdryGI,beatricevillasboas@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-05 10:46,BEATRICE Azeredo villas Bas
+cus_QyQvcSWQy6biXT,camilakirschner@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-05 09:14,Camila Kirschner
+cus_QyL0PwBkXmu78y,livia.moreira13@hotmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-05 03:07,Livia Silva Moreira
+cus_QyKNrY8aDj1iHb,jeny.kskim@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-05 02:27,Jeny Kim
+cus_QyKBrwtsyw4V7B,lareneves@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-05 02:16,Larissa Neves Cunha
+cus_QyK5PjSOHNu3ZI,sarah.tartarini@hotmail.com,price_1PsrPFHsrWBJzFX280c9PteR,month,49.00,active,2024-10-05 02:09,Sarah
+cus_QyJvGYT7LUDnsj,danielly.lapa@hotmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-05 01:59,Danielly Lapa
+cus_QyJnPjcDvcPANL,milenaldiniz@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-05 01:51,Milena Diniz
+cus_QyJPTyZ94JdVCb,amandanegreli@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-05 01:28,Amanda Comper
+cus_QyIzpLTNTWio9O,desireroticshop@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-05 01:02,Thamires Vieira Silva de Souza
+cus_QyIagZj546jP7b,cah.paes@hotmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-05 00:36,Caroline Paes
+cus_QyI655wyRPCoYy,mariana.med.ribeiro@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-05 00:07,Mariana Ribeiro
+cus_QyI69GaA7JG2r6,sissysalarrayan@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-05 00:07,Sissy salarrayan
+cus_QyI0WyOYnv2AJ4,ps.sequeira@hotmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-05 00:01,Patricia da S. Sequeira
+cus_QyHxWKFscDjbvz,eduardaguerra3@hotmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-04 23:58,Eduarda Guerra
+cus_QyHZ4UpcE8fbAD,carol_ferreira_rio@hotmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-04 23:33,Caroline Ferreira N
+cus_QyHP0TemNxZUfk,veronica.proeza@hotmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-04 23:24,Verônica Proêza
+cus_QyHIPvbnOhFu2M,mariadelimateixeira@hotmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-04 23:16,Maria Teixeira
+cus_QyGBugvqLPVmGp,aguiarmirellasantos@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-04 22:07,mirella aguiar
+cus_QyG92fxBsuIJE6,mayrinha.pio@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-04 22:05,Mayra
+cus_QyFhhtKkHRoI6p,pamizinha.amore@hotmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-04 21:38,Pamella da silva
+cus_QyEvDFeTZECvk9,beatrizfreitassalles@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-04 20:49,BEATRIZ FREITAS SALES
+cus_QyEcl9GlrLa79g,chagasffla@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-04 20:30,Flávia Feitosa Chagas
+cus_QyEb9qR591MBYI,adnanakananda@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-04 20:29,Kananda Jeronimo da Silva
+cus_QyEDVqNwL4KH0c,alinelamonteiro@outlook.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-04 20:05,Aline Monteiro
+cus_QyECwk9fSF1Swd,amandafernandesdt@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-04 20:04,AMANDA CARVALHO FERNANDES
+cus_QyDyNN6PQ48saY,dudavrbh@hotmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-04 19:50,Eduarda Ribeiro
+cus_QyDSaJ6dtqtq12,jaqueline_junko@hotmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-04 19:18,Jaqueline Tenguam
+cus_QyCmB4bCIqDFvu,nith.maia@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-04 18:36,Zenith
+cus_QyCRveWfIG9oKO,leticia201153@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-04 18:16,Leticia Camargo
+cus_QyCHnmX245VYBh,mmalta42@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-04 18:05,Marcella Malta
+cus_QyBzeDsO15JOHP,silva.crisribeiro93@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-04 17:48,Cristiellen Ribeiro
+cus_QyBRJ9ZIqJOGX8,thayannesilvas@gmail.com,price_1PsrPFHsrWBJzFX280c9PteR,month,49.00,active,2024-10-04 17:13,Thayane Silva
+cus_QyBNJcjd1Y30AJ,jessicabarbosa30@hotmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-04 17:09,Jessica Barbosa
+cus_QyBBmBPA1nSU81,keylamalta@hotmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-04 16:57,Keyla Alexsandra Pereira Malta
+cus_QyAm8tE3JM5rIG,juliamoraesalmeida@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-04 16:32,Julia Moraes 
+cus_QyA2o2cqFxIQzl,luannakcosta@hotmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-04 15:46,luanna Kairala
+cus_Qy9ti8HRmrXh3N,myrellelouise2@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-04 15:37,Myrelle Duarte 
+cus_Qy9jI6BVWgDmSt,fabisafonso@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-04 15:28,Fabiana da Silva Afonso
+cus_Qy9ZT4LGpN07Uf,laryssaoliveira022@hotmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-04 15:18,ANTONIO GOMES DE MACEDO 1273
+cus_Qy9XLRppMvjysv,aanapaularosa@icloud.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-04 15:15,Ana Paula Rosa
+cus_Qy9VmZPyVVjVaN,raffaelarodriguess@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-04 15:13,Rafaela Sendin
+cus_Qy9EnZAUl1CILN,mirelasantos2406@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-04 14:56,Mirela Ferreira dos santos
+cus_Qy9CnLn9nbC8uu,linda_santanna@hotmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-04 14:54,Linda Carvalho
+cus_Qy973ZAQU7hiMt,erikatrindadecv@gmail.com,price_1PsrPFHsrWBJzFX280c9PteR,month,49.00,active,2024-10-04 14:49,Érika Trindade
+cus_Qy8mvAX7Nrrdfx,dheby_08@hotmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-04 14:28,Dhebora siman
+cus_Qy8aEfFixoSJm2,jacky_leto@hotmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-04 14:16,Jacqueline de Lima Santos
+cus_Qy8Snaj7tyzEou,flaviacruz9090@icloud.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-04 14:08,Espirito santo do pinhal
+cus_Qy7FrnnxBLwPHA,juliana-mmpp@hotmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-04 12:53,Juliana Peres
+cus_Qy6t7WaMLB1Xsn,sec.palomareis@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-04 12:31,Casa
+cus_Qy6r2TF50RSEKh,andressa.cnascimento@yahoo.com.br,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-04 12:30,Andressa Nascimento
+cus_Qy6mrrfrHkU9s4,marialauraccabral@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-04 12:24,Maria Laura Cabral
+cus_Qy6iTBNvZAi2Q4,luppitaina@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-04 12:20,Taina oliveira
+cus_Qy6REbJpv7iuew,dayanydesousa@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-04 12:04,Dayany de Sousa
+cus_Qy63fL91xjah18,bru2015na@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-04 11:39,Bruna Santos
+cus_Qy4qPHTYtK9fbM,pauladiasrc@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-04 10:24,Paula  Dias 
+cus_Qy1esxLqvyQHzT,gizely.tf@gmail.com,price_1PsrPFHsrWBJzFX280c9PteR,month,49.00,active,2024-10-04 07:06,Gizely Teixeira Fernandes
+cus_QxyhK0WGH3gJl5,ligia-leticia@hotmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-04 04:03,Lígia cavalcanti
+cus_QxyWCIew5a4YrO,lucaseduardoguerra2003@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-04 03:53,Casa
+cus_QxxEOUawlI8NBt,saabrantesfreire@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-04 02:32,Sabrina Abrantes
+cus_QxwP8RK30iu3yB,maaaarymsf@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-04 01:41,Maryane Machado Fernandes
+cus_Qxw7VCbJe7rLp7,m.mahara@hotmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-04 01:23,Mirella Silva
+cus_QxuF6Fq1o418Md,vitorreisjvr@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-03 23:27,Joao Vitor Reis
+cus_QxuBWn8M2WskhE,carolinacoliveira37@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-03 23:24,carolina Carvalho Oliveira
+cus_QxtrTvXmnZ0mQm,scarletochoac@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-03 23:03,Scarlet Cruz
+cus_Qxt6boqaaVUg9j,corraidejulia@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-03 22:17,Júlia Corraide
+cus_QxsvPWslYveRpf,julliaperacelli@hotmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-03 22:06,Jullia Peracelli Amarilha
+cus_Qxr5xN6loMR9UG,amandolvr1@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-03 20:12,AMANDA C O CAMPOS
+cus_QxqB2gWfZUOqx5,catarinadamazios@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-03 19:16,Catarina Damazio
+cus_QxpXwmGsxa4WG4,samantha-sp@hotmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-03 18:35,Samantha Lima
+cus_QxoRHRM5g6KU44,rayssasgarbi@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-03 17:28,Rayssa Sgarbi Malta
+cus_QxnwI5aU00Iy1G,pamelaaa_p@hotmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-03 16:57,Pamela Pereira
+cus_QxnfWO0huGybsa,fernandaveras454@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-03 16:39,Fernanda
+cus_QxmraHMaxoFjkJ,camila_rosado07@hotmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-03 15:49,Camila Rosado Luz de Carvalho
+cus_Qxlr09WoAK0keO,princesaisabel2000@hotmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-03 14:47,Isabel de Lira
+cus_QxlmtZVicknaz2,ggimenez1098@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-03 14:42,Giovanna Gimenez Souza de Freitas
+cus_QxldcN031RGsgQ,ranielycaavalcante@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-03 14:33,Raniely Cavalcante Torres
+cus_QxlcZ2DXQfn0lC,carolzinha_chiara@hotmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-03 14:33,Carolina
+cus_QxjrLDkhoAHaXH,alicefaseh@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-03 12:43,Alice
+cus_QxjQuwrqD2vXbl,thaliaevaristo@hotmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-03 12:17,Thalia Cardoso Evaristo de Souza
+cus_QxjE5qCeU5tgIa,nicolewaissmann@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-03 12:04,Nicole Waissmann
+cus_QxifhlBhk5PG8o,isabellafrancaav@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-03 11:30,Isabella Avila
+cus_QxiPsSKYERWsvF,benvenutobia@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-03 11:13,Beatriz benvenuto
+cus_QxiMtMMfwMnVYy,ingridarantes03@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-03 11:10,Ingrid
+cus_QxfsOaxONfBe9h,marianasousarezende@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-03 08:37,Mariana Souza Rezende
+cus_QxdgqHvs9NmTP1,marianyalli@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-03 06:20,Mariany Alli
+cus_QxbkNV7gMv6RD5,nicollidamaceno@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-03 04:20,Nicolli Damaceno
+cus_QxbiFQb3EYJ11N,sabrinanunesg1@hotmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-03 04:18,SABRINA NUNES DA SILVA
+cus_QxbFftcpaU384Y,jessicachristinasantos@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-03 03:49,Jessica Christina
+cus_QxZRpQ040UmCpq,rafa.cobianchi@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-03 01:57,Casa
+cus_QxYXnqVaw2wILc,majufanali@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-03 01:02,Maria julia Fanali de almeida
+cus_QxYBdbSUxbFf4h,luciafreire15@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-03 00:40,LUCIA HELENA ALVES FREIRE
+cus_QxWlBONq30B9BG,jessicaaraujobatista@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-02 23:11,Jessica Araujo Batista
+cus_QxWjlA3ghdSW1V,thamiresguedesleite@hotmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-02 23:10,Thamires geuxes
+cus_QxWBlJFkVXxkfJ,gabriellaannicchino@hotmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-02 22:35,Gabriella  Silva
+cus_QxVSUq8nlOq7Je,thaysnslv@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-02 21:50,Thays Silva
+cus_QxVLmB0uRNsPb1,marciacsaldanhaferreira@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-02 21:43,Márcia Saldanha Ferreira
+cus_QxTCEQoxGOlMUj,beatrizteodoro2004@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-02 19:30,Beatriz Teodoro Alambert
+cus_QxR3RWisWyejds,vanessajanuth@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-02 17:17,Vanessa
+cus_QxQjfAxUaDn4Go,patricia.cardoso88@hotmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-02 16:58,Patrícia Cardoso
+cus_QxQZocJTW5StDn,silviakelly@hotmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-02 16:47,Silvinha Cunha
+cus_QxQNXNu9swgGmj,aleticiarsd@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-02 16:35,Ana Letícia Silva
+cus_QxQ8PqJGdw4OrG,vickbarbuio@me.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-02 16:20,Vitoria Barbuio
+cus_QxPippYkO4h7Cl,carlamts@live.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-02 15:54,Carla Martins
+cus_QxPWtdum29WqQs,ludmiladias.dev@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-02 15:42,Ludmila Dias
+cus_QxOgPQE3lZ9KvD,marina_pistilli@outlook.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-02 14:50,Marina Pistilli
+cus_QxOPHueL40yFh4,lalaufaleiros@outlook.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-02 14:33,Laura Faleiros
+cus_QxOMD0Brz5CotC,sabrinaoliveiralima1@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-02 14:30,Sabrina Oliveira Lima
+cus_QxNXafV8TobyLq,isabella.zaniboni@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-02 13:39,Isabella Zaniboni
+cus_QxNBfCAt6G7I6h,vitoriabalbi@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-02 13:17,Vitoria Palmier Balbi
+cus_QxMVJ4sl3Y4Kjr,barbaracarneiroc@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-02 12:36,Bárbara Carneiro Cardoso
+cus_QxMTtS66BRfyRi,fabianaapps26@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-02 12:34,Fabiana
+cus_QxECb5WBd72bYT,thaysaamacedo@gmail.com,price_1PsrPFHsrWBJzFX280c9PteR,month,49.00,active,2024-10-02 04:00,Thaysa Macedo
+cus_QxAm1mncYkd34o,paulamcouto@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-02 00:28,Paula Couto
+cus_QxAYziCAZHvQBX,spoke-flory0j@icloud.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-02 00:14,Isabela  de Oliveira 
+cus_QxA1Pfta2XSqTP,lelesflima@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-01 23:41,Letícia Lima
+cus_Qx3FlnnpOCxiKf,jufraccaroli@icloud.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-01 16:42,Ana Julia Fraccaroli
+cus_Qx2aGvw2Y6SkwM,isabellagobbi@hotmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-01 16:00,Isabella Gobbi
+cus_Qx2Qvnl5CYyCbh,marinagorgete@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-01 15:50,MARINA SANTOS
+cus_Qx2O2ZgA0F8awW,thaisrq@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-01 15:48,Thaís Reis Qualharini
+cus_Qx2MVQaYIBGV9b,kamillyoliveira290@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-01 15:47,Kamilly Oliveira
+cus_Qx1muTMQ4POBXh,thaynaraporta@hotmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-01 15:10,Thaynara Porta
+cus_Qx1VPpj0SCbmWn,larissaveigamodel@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-01 14:53,Larissa Veiga
+cus_Qx15oQuThv08r2,kyannemc@hotmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-01 14:27,Kyanne Costa
+cus_Qx0iWxh6DmXF9r,georgia.parasmo98@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-01 14:04,Georgia Parasmo
+cus_Qwxh5SLMPQmLJX,jesscabral97@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-01 10:57,Jéssica Palhares Cabral
+cus_QwvgTgDLGdH3oU,thaysa.coutinhodossantos@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-01 08:53,Thaysa
+cus_QwvdmqpQ6WnSFu,oliveiraavickyy@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-01 08:50,Victoria  Oliveira
+cus_QwrOduMA6fTbZ1,biabarb258@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-01 04:26,Bianca Barboza
+cus_QwoIApecZlWaO8,izabela.cairo@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-10-01 01:14,Izabela  Cairo 
+cus_QwjAdedtYzhMdI,paula95goncales@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-09-30 19:56,Paula Priscilla Rodrigues Gonçales
+cus_Qwixw5oEgNIdao,lepedrare@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-09-30 19:43,Leticia Reina
+cus_QwivypE3ztUDNQ,laryssaoliveira022@hotmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-09-30 19:41,Larissq Oliveira Vieira
+cus_QwgbTkaKJRbnQ0,carolinecarvalho25@uni9.edu.br,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-09-30 17:18,Casa
+cus_Qwfg1We0B3lm2x,giovanna.fpa@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-09-30 16:20,Giovanna Freitas
+cus_Qwffzwpzdsfm1I,nat.wt@hotmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-09-30 16:19,Natalia Watanabe
+cus_Qwfc4tQS4WeIJy,pereiradaniele_@hotmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-09-30 16:16,Daniele Aparecida Pereira
+cus_QwfCVlDsxvH5j6,ju_r_r@hotmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-09-30 15:50,Juliana Rodrigues Raspa
+cus_Qwe1cnNDfMg642,moraesmartinsn@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-09-30 14:37,Natalia Moraes
+cus_QwdjuNn6bTObie,annacr.moraes@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-09-30 14:19,Anna Moraes
+cus_QwdDH4DUOoiJ2G,marijanegastanes@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-09-30 13:47,Carolina Gastanes Alves
+cus_QwblOPh3zW8d1E,isadora.ferri@gmail.com,price_1PsrPFHsrWBJzFX280c9PteR,month,49.00,active,2024-09-30 12:17,Isadora Ferri
+cus_QwbMAIXF0EEAOP,laisharsanyi@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-09-30 11:52,LAIS HARSANYI PINTO
+cus_Qwb0WyJY25na9F,rochavictoria860@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-09-30 11:31,Victória Ijeoma Rocha Kalu
+cus_QwawjUbL5ZZbGs,lara_m_b@hotmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-09-30 11:27,Lara Miranda
+cus_QwahZ4Nn8LeatA,edvania.brizola@hotmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-09-30 11:11,Edvania Brizola dos Santos
+cus_QwYT9ZNavntnf7,livia.navas@hotmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-09-30 08:53,Lívia Navas
+cus_QwQvlEWynVBlv2,ingrideterovich@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-09-30 01:05,Ingrid Eterovich
+cus_QwQoY1mcHisVgE,barbaracamarini@hotmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-09-30 00:58,Barbara  Camarini Albuquerque Arruda
+cus_QwOINZPx1zt8Gn,ravena.cunha@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-09-29 22:22,Ravena Cunha
+cus_QwMZhADrgZMbr6,camillalvesqueiroz@hotmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-09-29 20:35,Camilla A  Queiroz
+cus_QwJGzRwuJA4vXv,thaisgdoliveira16@hotmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-09-29 17:11,Thais Oliveira
+cus_QwJ1tx66a5Kt7m,anapiericordeiro@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-09-29 16:56,Ana Rita Pieri Cordeiro
+cus_QwIokuCilflZ0i,carolaugusta15@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-09-29 16:43,Caroline Cardoso
+cus_QwIZ2MrN34FGA8,isabellarsluna@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-09-29 16:27,Isabella Roma
+cus_QwA06lzZrSmmit,gislaine.gvl@outlook.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-09-29 07:36,Rua sao timoteo n82
+cus_Qw6eflnP4FiaX5,majussantosss@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-09-29 04:09,Maria Julia dos Santos
+cus_Qw5Xk15OHm4GvY,michele.marquesm@hotmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-09-29 02:59,Michele Marques
+cus_Qw3srJy4EQYYoV,larissatenfermagem@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-09-29 01:17,LARISSA DOS SANTOS
+cus_Qw2gaQqXmvNwYc,ejerep@hotmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-09-29 00:03,eduarda jerep
+cus_Qw1fSJrhpEwPLm,idahdalaoun@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-09-28 22:59,Isabella Dahdal Aoun
+cus_QvzuWPdTWs1wYM,carolinaaccalvim@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-09-28 21:10,Carolina Alvim
+cus_QvwOxauyYLwNY4,nick.gscheffer@hotmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-09-28 17:32,Nicole Scheffer
+cus_QvvNfzBgR7uehK,dudaspeda13@hotmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-09-28 16:30,Maria Eduarda Speda
+cus_QvvCwbdoJOuhmZ,carolineap.silveirabarbosa@gmail.com,price_1PsrPFHsrWBJzFX280c9PteR,month,49.00,active,2024-09-28 16:18,Caroline Barbosa
+cus_QvvCJyKBEQzcwN,thiagotavares3@hotmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-09-28 16:18,Thiago Lima Tavares
+cus_QvuGNG3a6KnsjE,gi_apg@yahoo.com.br,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-09-28 15:21,Gislaine Garcia
+cus_QvtRAK53XY7p5g,ellis_croce@hotmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-09-28 14:30,Ellis Croce
+cus_QvsJJaBuJoFFrC,isabellaaugusta2008@hotmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-09-28 13:19,Isabella  Cunha
+cus_Qvqr18upbir6mV,danivibe05@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-09-28 11:50,Daniele Vieira Bezerra
+cus_QvqcMbddRnzh9u,beatrizgurgel.mkt@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-09-28 11:35,Beatriz Espinheira Gurgel
+cus_Qvj7VYAMBmv4L9,giufrancisco99@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-09-28 03:49,Giulia Francisco dos Santos
+cus_QvhQ1BkKty7JfP,larissa.cp.99@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-09-28 02:04,Larissa Vargas de Carvalho
+cus_QvhBEHVsppJO8B,maria.hsb@live.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-09-28 01:50,Maria Helena Santos barbosa
+cus_QvgF3bOh7KL3d5,amandasigno.as@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-09-28 00:51,Amanda Signo
+cus_QvfFKDBcGgYEKI,alana_gs@live.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-09-27 23:50,Alana Souza
+cus_QveDSXmv25DMMb,vedova9@hotmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-09-27 22:45,Gabriela Della Vedova
+cus_QvcnLfCctVKoDt,alanafmiller@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-09-27 21:18,Alana Miller
+cus_Qvc9SfMp84F2yu,thaisbossois@hotmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-09-27 20:38,Thais Bossois
+cus_QvbzKMkzbNifuf,larissacpb97@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-09-27 20:28,Larissa Barreto
+cus_Qvb0avjFAEOHYs,sabrinaarodrigues@hotmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-09-27 19:26,Sabrina Rodrigues
+cus_QvarCredTCp51c,isaiaswf@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-09-27 19:17,Suellen   Sousa 
+cus_QvVhMgb280xxwi,elen.magalhaespereira@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-09-27 13:57,Elen Magalhaes Pereira
+cus_QvUVz9LwPko8XN,thifany_fg@hotmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-09-27 12:43,Thifany Felix Araujo
+cus_QvTxE0pTmp1LOG,carolinagabarramarques@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-09-27 12:09,Carolina Gabarra
+cus_QvSFJJq5gisyFf,coelho17bruna@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-09-27 10:23,Bruna
+cus_QvH4pkHIlOQFW0,beatriz.ferreira.regis@hotmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-09-26 22:50,Beatriz Ferreira
+cus_QvGesfgqwxOLdW,claragullob@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-09-26 22:24,Clara Gullo
+cus_QvEr6RlvOKPs0E,maria_jaber@hotmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-09-26 20:33,Maria Jaber
+cus_QvCO7IAWWgL8u4,nataliammendes04@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-09-26 18:00,Natália Mendes
+cus_QvAB9LafRMX1Ef,bruvribeiro@outlook.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-09-26 15:43,Bruna Vitoria de Lima Ribeiro
+cus_Qv6ec55bVIx1Q6,alinne.bessoni@wecann.academy,price_1PsrPFHsrWBJzFX280c9PteR,month,49.00,active,2024-09-26 12:04,Alinne Bessoni Boudoux Salgado
+cus_Qv53iDuh4cLmHA,tezolin.kamila@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-09-26 10:26,Kamila Tezolin
+cus_Qv4c7Fc0rFCCQr,monabelezi@hotmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-09-26 09:58,Monalisa Rica
+cus_QuyueWSndOvKft,biancavallegretti@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-09-26 04:04,Bianca  Vieira
+cus_QuwHSih9q2ViG2,julia.area.leao@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-09-26 01:21,Júlia Leão
+cus_Qutfo6JmbdX40C,lumourarocha@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-09-25 22:39,Ana Luiza Moura Rocha
+cus_QusgTnMfpDfz1V,mayaracoravitoriano@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-09-25 21:39,Mayara Cora Vitoriano
+cus_QusNVvXUwAA4Ub,filinhajulia@yahoo.com.br,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-09-25 21:20,Julia Faria Coutinho
+cus_QusJBswLByXuUp,lailaamoutinho@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-09-25 21:15,Laila m d cruz
+cus_QuqfNAYfTjIweg,gigi.ortolan@icloud.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-09-25 19:34,Giovanna Ortolan
+cus_QumdvMDO9jIlwk,le.lecius@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-09-25 15:23,Alexandra Lecius
+cus_QujfnWAPzZ4IvJ,isabela.marazzi@hotmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-09-25 12:19,casa
+cus_QucoVJnptZex8f,gabilimasouza185@hotmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-09-25 05:14,Gabriela Soares
+cus_QuZ9anhm86bK4h,bruna.pinheiro10@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-09-25 01:27,Bruna Paula
+cus_QuY3MDH36ZXAtU,carmembrandao@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-09-25 00:19,Carmem Brandão
+cus_QuXCG1nk7XvlRZ,barbaramda931@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-09-24 23:26,Bárbara Maria de Andrade
+cus_QuUnpME2TpCCMh,sabrina_silva_bernini@hotmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-09-24 20:58,Sabrina
+cus_QuTLAfi8fDWJEo,renatinhack@icloud.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-09-24 19:28,Renata Kunzendorff
+cus_QuSnUSJgitmWjH,camila.miranda.moura@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-09-24 18:54,Camila Miranda de Moura
+cus_QuSh39PciJRLE0,cinthiavieyra@hotmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-09-24 18:47,CINTHIA  FARIA
+cus_QuKpiwAu3SFfnl,nessahgarcia163@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-09-24 10:39,Vanessa Silva Garcia
+cus_QuB2GW1Fvs7u2H,ldiasv@hotmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-09-24 00:32,Lucila Dias Vilela
+cus_Qu1vmPJk8zWTHX,romanofernanda1@hotmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-09-23 15:08,Fernanda  Romano
+cus_QthNCKutzhOfno,guima.tais@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-09-22 17:54,Tais Guimarães 
+cus_QtNjPIktjPuVk8,silvakemily816@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-09-21 21:36,Kemily
+cus_QtI2p0xMVquzxA,nardyelli@hotmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-09-21 15:42,Nardyelli Rocha
+cus_Qsyy7J7HBSmmWO,camilacastorp@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-09-20 20:00,Camila Azevedo
+cus_QsJ9p6Xg2njM96,alineeizuka@hotmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-09-19 00:48,Aline Ayumi Eizuka
+cus_QrSXcKlu0oAjke,gabicfernandes@me.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-09-16 18:25,gabriela fernandes
+cus_Qqn5tX94GaTAqr,aa.prado@uol.com.br,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-09-14 23:35,Andrea Faria do Amaral
+cus_QqNJTMH5ikTMh2,natasha.padua@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-09-13 20:58,Natasha Monteiro de Padua
+cus_QpPCnfp7Hhc5lo,thais.nvo@icloud.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-09-11 06:51,Thais Novais
+cus_QpDMIwnCIbNe0W,brunap.limao@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-09-10 18:36,Bruna Plaza Limao
+cus_QoNzhBHEHyGbvc,juliasantanabezerra@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-09-08 13:31,Julia Santana Bezerra
+cus_QnelK1qfg06ZKM,monicamanzoli@hotmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-09-06 14:47,Monica Regina M Lowy
+cus_QfWL6rftGFhc5B,andressaap.rodrigues@hotmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-08-15 21:33,Andressa Aparecida Rodrigues da Silva
+cus_Qc05V6Dpztjf06,lu@luizaapollaro.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-08-06 12:02,luiza Apollaro
+cus_Qbmcs8npSSfzSk,souzapatrician@gmail.com,price_1PRnWvHsrWBJzFX2nC3phv3l,year,384.00,active,2024-08-05 22:07,Patrícia Nogueira de Souza da Mata
+cus_QbjDGgVHJwZ2gQ,karina.tronkos@gmail.com,price_1PRnWvHsrWBJzFX2nC3phv3l,year,384.00,active,2024-08-05 18:35,Karina Fernandes Tronkos
+cus_QaDo41lM6WIN7m,cah_santinon@hotmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-08-01 18:04,Caroline Santinon
+cus_QWCFysiflNcLnb,agathafjunqueira@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-07-22 00:11,Agatha fernandes junqueira
+cus_QVsMBfEhklAxYA,jenniluize9@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-07-21 03:38,Jennifer Luize Moco
+cus_QV7DTjDV9bUBAT,anaoyadomari@hotmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-07-19 02:55,Ana luiza  Oyadomari
+cus_QTtjpQjdN8AwvC,lucasmanzoli@gmail.com,price_1PRnWvHsrWBJzFX2nC3phv3l,year,384.00,active,2024-07-15 20:55,lucas m almeida
+cus_QSrTVVd0KF9cbk,beatrizvandrade03@gmail.com,price_1PRnWvHsrWBJzFX2nC3phv3l,year,384.00,active,2024-07-13 02:31,Pedro Toledo
+cus_QSTJFFcHXkFsti,emanuellycristina2895@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-07-12 01:34,Emanuelly Cristina
+cus_QSMFZE7VMEemK0,raphaletilinda11@gmail.com,price_1PRnWvHsrWBJzFX2nC3phv3l,year,384.00,active,2024-07-11 18:16,Raphaela Machado Campos Lopes
+cus_QRC1lAGV2piCwi,brunabranco.m@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-07-08 15:38,BRUNA BRANCO DE MIRANDA
+cus_QQVRiJd8wxUR1d,karinevpimentel@hotmail.com,price_1PRnWvHsrWBJzFX2nC3phv3l,year,384.00,active,2024-07-06 19:37,Karine Viviane de Araujo Pimentel
+cus_QPk2QQNKmb95tm,talicavalcante2000@gmail.com,price_1PRnWvHsrWBJzFX2nC3phv3l,year,384.00,active,2024-07-04 18:38,Talita Oliveira Cavalcante da Silva
+cus_QPj63bmBGF0sOi,lais10cristina@hotmail.com,price_1PRnWvHsrWBJzFX2nC3phv3l,year,384.00,active,2024-07-04 17:41,Lais Alencar
+cus_QPh52NeX2beEfM,melissabarbosa513@gmail.com,price_1PRnWvHsrWBJzFX2nC3phv3l,year,384.00,active,2024-07-04 15:35,Melissa Santos Barbosa
+cus_QPfDCEqXCMFOJ1,nelmasilva198@gmail.com,price_1PRnWvHsrWBJzFX2nC3phv3l,year,384.00,active,2024-07-04 13:39,Nelma
+cus_QPLVtHjvAEs3vg,camilafemota12@gmail.com,price_1PRnWvHsrWBJzFX2nC3phv3l,year,384.00,active,2024-07-03 17:18,Camila Mota
+cus_QP6iB8MgkA9sG9,alinnemotta@outlook.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-07-03 02:01,Aline  Mota
+cus_QP6O3EKNH6GdiG,lorennaic_@hotma.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-07-03 01:41,"Rua Fabiano Alves 105, apt 185, Vila Prudente - SP"
+cus_QP5sTJIcchm4no,henry.leite2001@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-07-03 01:08,Henry Elmadjian Rezende Leite
+cus_QP45DN4KKcw5gL,flaviaferraresi3003@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-07-02 23:17,flavia ferraresi campos
+cus_QP07DnP8WJquTa,carolinemachado12@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-07-02 19:11,Caroline Machado
+cus_QOt3n4FIbmlSu7,juliadossantosmoni@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-07-02 11:53,JULIA DOS SANTOS MONI
+cus_QOYWEoxUOPL761,cleabosco@gmail.com,price_1PRnWvHsrWBJzFX2nC3phv3l,year,384.00,active,2024-07-01 14:40,Cléa de Bosco Rosa Santos
+cus_QOEFBld8ryTD5U,gui_oliver0@hotmail.com,price_1PRnWvHsrWBJzFX2nC3phv3l,year,384.00,active,2024-06-30 17:44,Guilhemre Pereira
+cus_QOAwy8WKLNkt7s,bruna.montesano@gmail.com,price_1PRnWvHsrWBJzFX2nC3phv3l,year,384.00,active,2024-06-30 14:18,Bruna Maria Montesano
+cus_QNYql3AAHwK4RB,sgc_stephanie@hotmail.com,price_1PRnWvHsrWBJzFX2nC3phv3l,year,384.00,active,2024-06-28 22:57,Stephanie Karen Roque Gomes Araújo
+cus_QMj5TpKGdjoMxk,larimaruggi.lima@gmail.com,price_1PRnWvHsrWBJzFX2nC3phv3l,year,384.00,active,2024-06-26 17:28,Larissa Maruggi de Lima
+cus_QMTpuPvUPi2lRp,lary.lc1998@gmail.com,price_1PRnWvHsrWBJzFX2nC3phv3l,year,384.00,active,2024-06-26 01:41,Larissa
+cus_QMP7k5ILCut57F,karineyuka@hotmail.com,price_1PRnWvHsrWBJzFX2nC3phv3l,year,384.00,active,2024-06-25 20:49,Karine  Kiyan
+cus_QM0Tg1wjmOwyck,kamilacsn@outlook.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-06-24 19:21,Kamila Cordier
+cus_QLsg4tTbV7aXfy,alandalisboa@hotmail.com,price_1PRnWvHsrWBJzFX2nC3phv3l,year,384.00,active,2024-06-24 11:19,Alanda Lisboa Alves
+cus_QLEv5IEEz1svP6,lunafreire12@hotmail.com,price_1PRnWvHsrWBJzFX2nC3phv3l,year,384.00,active,2024-06-22 18:13,Luana Freire
+cus_QKbMRRnGo2hcam,isadoralgnm@hotmail.com,price_1PRnWvHsrWBJzFX2nC3phv3l,year,384.00,active,2024-06-21 01:20,isadora
+cus_QKR8eLGtCoKtZh,julliakatsuya@gmail.com,price_1PRnWvHsrWBJzFX2nC3phv3l,year,384.00,active,2024-06-20 14:46,JULLIA KATSUYA
+cus_QJoMg93nVzvuuj,vitoriamsutiro@gmail.com,price_1PRnWvHsrWBJzFX2nC3phv3l,year,384.00,active,2024-06-18 22:42,Vitoria Sutiro
+cus_QJg7k4GufzQ0qN,claralis10@gmail.com,price_1PRnWvHsrWBJzFX2nC3phv3l,year,384.00,active,2024-06-18 14:11,Clara Lis Mendes dos Santos
+cus_QJJBXn7YdusS2C,brunamafra.96@gmail.com,price_1PRnWvHsrWBJzFX2nC3phv3l,year,384.00,active,2024-06-17 14:29,Bruna Mafra
+cus_QIxLjw8HoqsWZN,susulamita@hotmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-06-16 15:55,Sulamita  Peres
+cus_QIv4VnHBy4pz4V,matheyluisa@gmail.com,price_1PRnZoHsrWBJzFX2X8wH9MCl,month,49.00,active,2024-06-16 13:34,Luísa Mathey Settanni
+cus_QIuh6aKbWNdQBC,kah_bonekiinha@hotmail.com,price_1PRnWvHsrWBJzFX2nC3phv3l,year,384.00,active,2024-06-16 13:11,Karina Marques
+cus_QIXe0N0niBHxvH,sisley_sotero@hotmail.com,price_1PRnWvHsrWBJzFX2nC3phv3l,year,384.00,active,2024-06-15 13:23,Sisley Sotero
+cus_QIHsOmhPa0JZjz,gabrielagcisneros@gmail.com,price_1PHVteHsrWBJzFX22XL31kAt,month,32.00,active,2024-06-14 21:04,Gabriela Cisneros
+cus_QIG6GmQvLNu7dS,pgian558@gmail.com,price_1PHVteHsrWBJzFX22XL31kAt,month,32.00,active,2024-06-14 19:14,Gian Pereira da Silva
+cus_QIEFPork2QLE5z,Gramar.oli@gmail.com,price_1PHVteHsrWBJzFX22XL31kAt,month,32.00,active,2024-06-14 17:19,Graziele
+cus_QIAIkjbbMxlsRV,geovanamsantos@outlook.com,price_1PHVteHsrWBJzFX22XL31kAt,month,32.00,active,2024-06-14 13:14,Geovana Marques
+cus_QIA4YMCH0gUP9e,raizatite@gmail.com,price_1PHVteHsrWBJzFX22XL31kAt,month,32.00,active,2024-06-14 13:00,Raiza Pereira do Nascimento
+cus_QI9LTDPgVARFXQ,brissifernanda@gmail.com,price_1PHVteHsrWBJzFX22XL31kAt,month,32.00,active,2024-06-14 12:16,Fernanda Alves Brissi
+cus_QI0DQSRcFWbiES,dini.sid@hotmail.com,price_1PHVteHsrWBJzFX22XL31kAt,month,32.00,active,2024-06-14 02:49,Eudini Tiozzi
+cus_QHxlM53l15xeHA,camila_cristinab@hotmail.com,price_1PHVteHsrWBJzFX22XL31kAt,month,32.00,active,2024-06-14 00:17,Camila Bezerra
+cus_QHvwW66OlCqKue,erika.affonsodecarvalho24@gmail.com,price_1PK1ekHsrWBJzFX22QALDwyA,year,348.00,active,2024-06-13 22:24,Erika Affonso De Carvalho
+cus_QHvaeZPv3Akcrg,ljreissati@gmail.com,price_1PHVteHsrWBJzFX22XL31kAt,month,32.00,active,2024-06-13 22:02,Luna Jreissati
+cus_QHupBnI8JSI5bz,gabriella.domiciano@gmail.com,price_1PK1ekHsrWBJzFX22QALDwyA,year,348.00,active,2024-06-13 21:15,Gabriella Domiciano
+cus_QHtEfxJlORTEHp,carol.freire22@hotmail.com,price_1PHVteHsrWBJzFX22XL31kAt,month,32.00,active,2024-06-13 19:36,Caroline Freire De Oliveira
+cus_QHsWSbGt9STPK6,gracisan675@gmail.com,price_1PHVteHsrWBJzFX22XL31kAt,month,32.00,active,2024-06-13 18:52,Graciele Teixeira
+cus_QHsEqNTJItCWnu,isabele_vergilio@hotmail.com,price_1PHVteHsrWBJzFX22XL31kAt,month,32.00,active,2024-06-13 18:34,Isabele Vergilio
+cus_QHYmFiK9JB8otE,monicakazihara@gmail.com,price_1PHVteHsrWBJzFX22XL31kAt,month,32.00,active,2024-06-12 22:28,Mônica Akemi Kazihara
+cus_QHYRV6kbQVbIMH,maric.almeidaa25@outlook.com,price_1PK1ekHsrWBJzFX22QALDwyA,year,348.00,active,2024-06-12 22:07,maria Almeida
+cus_QHXGSDO69AWYVh,dinha_kimura@hotmail.com,price_1PHVteHsrWBJzFX22XL31kAt,month,32.00,active,2024-06-12 20:54,Amanda Kimura
+cus_QHVJoHLCTQSD4S,ericasaeda@gmail.com,price_1PHVteHsrWBJzFX22XL31kAt,month,32.00,active,2024-06-12 18:53,Erica Saeda
+cus_QHTaIvAUF1cKmb,danielerodriguesribeiro@gmail.com,price_1PHVteHsrWBJzFX22XL31kAt,month,32.00,active,2024-06-12 17:06,Daniele
+cus_QHSRHtmUMrjCPD,juumonassa@gmail.com,price_1PHVteHsrWBJzFX22XL31kAt,month,32.00,active,2024-06-12 15:55,Juliana Monassa
+cus_QH9xrPM9RtTIsq,Pereira.arianne@hotmail.com,price_1PK1ekHsrWBJzFX22QALDwyA,year,348.00,active,2024-06-11 20:49,ARIANNE DE PAULA PEREIRA
+cus_QH7fukrHSXlMFP,larissapolettini@hotmail.com,price_1PHVteHsrWBJzFX22XL31kAt,month,32.00,active,2024-06-11 18:27,Larissa Polettini
+cus_QH6B71SkoYqWJg,adrianalbenjamim1@gmail.com,price_1PK1ekHsrWBJzFX22QALDwyA,year,348.00,active,2024-06-11 16:56,Adriana Lima Benjamim
+cus_QH1f4rpYAIR92L,tatianacristinamendes@hotmail.com,price_1PHVteHsrWBJzFX22XL31kAt,month,32.00,active,2024-06-11 12:16,Tatiana Cristina Mendes
+cus_QH0bhlOiTXVPEA,Beatrizliranco@gmail.com,price_1PHVteHsrWBJzFX22XL31kAt,month,32.00,active,2024-06-11 11:09,Beatriz Souza
+cus_QGsbAPwYfsE8BE,rafaaoliveira.p@outlook.com,price_1PHVteHsrWBJzFX22XL31kAt,month,32.00,active,2024-06-11 02:54,Rafaela Pereira de Oliveira
+cus_QGkyJ7EddRU0Br,analauramgs@gmail.com,price_1PHVteHsrWBJzFX22XL31kAt,month,32.00,active,2024-06-10 19:00,Ana Laura Matias gomes
+cus_QGjYBIgunKs57j,alanacipollari@gmail.com,price_1PHVteHsrWBJzFX22XL31kAt,month,32.00,active,2024-06-10 17:33,Alana Cipollari Rodrigues
+cus_QGXrHFxgpTEv5T,analui_95@hotmail.com,price_1PHVteHsrWBJzFX22XL31kAt,month,32.00,active,2024-06-10 05:27,ANA LUIZA PORTELLO BASTOS
+cus_QGWNxM1etRGYKb,bianeiva96@gmail.com,price_1PHVteHsrWBJzFX22XL31kAt,month,32.00,active,2024-06-10 03:55,BEATRIZ NEIVA
+cus_QGKFcU9yi1idLT,nayarasbfreitas@gmail.com,price_1PHVteHsrWBJzFX22XL31kAt,month,32.00,active,2024-06-09 15:23,Nayara Serra Benevides de Freitas
+cus_QGKA8nb34K8yEi,amanda.s.soriani@hotmail.com,price_1PHVteHsrWBJzFX22XL31kAt,month,32.00,active,2024-06-09 15:18,Amanda Salgado
+cus_QGGfwskzFwzDul,amandaarioto@hotmail.com,price_1PHVteHsrWBJzFX22XL31kAt,month,32.00,active,2024-06-09 11:41,Amanda Arioto
+cus_QFxV8SM5ZVZKNH,izdsinril@hotmail.com,price_1PK1ekHsrWBJzFX22QALDwyA,year,348.00,active,2024-06-08 15:53,Izd Sin Ril
+cus_QFtybfxnCWPaBR,katyana102@gmail.com,price_1PK1ekHsrWBJzFX22QALDwyA,year,348.00,active,2024-06-08 12:14,Casa
+cus_QFgy0OEunHxxgn,deyse.nayana@gmail.com,price_1PHVteHsrWBJzFX22XL31kAt,month,32.00,active,2024-06-07 22:48,Deyse nayana
+cus_QFfgf0QQpUryqE,renato.vidotti@grupovbp.com.br,price_1PHVteHsrWBJzFX22XL31kAt,month,32.00,active,2024-06-07 21:28,Renato Vidotti
+cus_QFfIZ7o7fijo1h,araujo.alexandres@gmail.com,price_1PHVteHsrWBJzFX22XL31kAt,month,32.00,active,2024-06-07 21:04,Rua Santa Marcela 98 bloco 4 apto 64 Jardim Roberto Osasco São Paulo
+cus_QFbI1ZbFyiEc7u,tmmlevada@gmail.com,price_1PHVteHsrWBJzFX22XL31kAt,month,32.00,active,2024-06-07 16:56,Tatiana Levada
+cus_QFYp1Tyvwi3cxP,ana_hashimoto@hotmail.com,price_1PK1ekHsrWBJzFX22QALDwyA,year,348.00,active,2024-06-07 14:23,Ana  Hashimoto
+cus_QFXwTzg4DMiqNy,renataflop@gmail.com,price_1PHVteHsrWBJzFX22XL31kAt,month,32.00,active,2024-06-07 13:28,Renata Torres Alves
+cus_QFVN0hHWemJ7M9,mairaperito@hotmail.com,price_1PHVteHsrWBJzFX22XL31kAt,month,32.00,active,2024-06-07 10:50,Maira Perito
+cus_QFUCc5fUDLxpuC,kamilamaciel1@outlook.com,price_1PHVteHsrWBJzFX22XL31kAt,month,32.00,active,2024-06-07 09:37,Kamila maciel
+cus_QFE8dqmFZA7Bhl,karen.haruka.koike@gmail.com,price_1PHVteHsrWBJzFX22XL31kAt,month,32.00,active,2024-06-06 17:00,Karen Koike
+cus_QFADEkwySjPKT7,karolmonthay97@gmail.com,price_1PHVteHsrWBJzFX22XL31kAt,month,32.00,active,2024-06-06 12:58,Karoline Monthay
+cus_QEtpDBCK7KgEM1,anapaula_asilva@yahoo.com.br,price_1PHVteHsrWBJzFX22XL31kAt,month,32.00,active,2024-06-05 20:01,Ana paula araujo silva cordeiro
+cus_QEsx1cArG0VGID,gabrielagubnitsky2@icloud.com,price_1PHVteHsrWBJzFX22XL31kAt,month,32.00,active,2024-06-05 19:08,Gabriela Gubnitsky
+cus_QEiFK0zr8c5WNZ,sprovete1@gmail.com,price_1PHVteHsrWBJzFX22XL31kAt,month,32.00,active,2024-06-05 08:03,SERGIO F PROVETE
+cus_QEdVo4U68tcf3a,jenifferssa@hotmail.com,price_1PHVteHsrWBJzFX22XL31kAt,month,32.00,active,2024-06-05 03:09,Jeniffer Sabrina Salvino Augusto
+cus_QEcf7gb2hpXvH4,rafa_pacc@hotmail.com,price_1PHVteHsrWBJzFX22XL31kAt,month,32.00,active,2024-06-05 02:17,Rafaela Blumer Pacchiele
+cus_QEaZBQ5lDTsNZw,gabrielabrandao2@hotmail.com,price_1PHVteHsrWBJzFX22XL31kAt,month,32.00,active,2024-06-05 00:07,Gabriela Brandão Arrouk
+cus_QEZGgD1cxrGeCj,carooltavares@live.com,price_1PHVteHsrWBJzFX22XL31kAt,month,32.00,active,2024-06-04 22:46,Carolina Tavares
+cus_QEQX8kOTw0ealw,giulia_uliano@yahoo.com.br,price_1PHVteHsrWBJzFX22XL31kAt,month,32.00,active,2024-06-04 13:45,Giulia Uliano
+cus_QDouuzv9SGo7JE,suzuki.leticia@hotmail.com,price_1PHVteHsrWBJzFX22XL31kAt,month,32.00,active,2024-06-02 22:52,leticia  suzuki
+cus_QDhBYSYLBbZvzs,vanessagenaro@yahoo.com,price_1PHVteHsrWBJzFX22XL31kAt,month,32.00,active,2024-06-02 14:53,Vanessa Genaro
+cus_QDPUITsPvrcmsi,giovannascervino@gmail.com,price_1PHVteHsrWBJzFX22XL31kAt,month,32.00,active,2024-06-01 20:36,Giovanna Scervino
+cus_QD3y7YOpLOmVb7,lubialira@gmail.com,price_1PHVteHsrWBJzFX22XL31kAt,month,32.00,active,2024-05-31 22:22,Lubia
+cus_QCyw2h9JxV6IPR,livia19012005@gmail.com,price_1PHVteHsrWBJzFX22XL31kAt,month,32.00,active,2024-05-31 17:10,Lívia Bernardo da Silva
+cus_QCsYhFMOyZJgVB,lineroosa@gmail.com,price_1PHVteHsrWBJzFX22XL31kAt,month,32.00,active,2024-05-31 10:35,Aline  Rosa Da Silva
+cus_QCjAo6yopxI5o2,carolinecmelo391@gmail.com,price_1PHVteHsrWBJzFX22XL31kAt,month,32.00,active,2024-05-31 00:52,Caroline Melo
+cus_QCbkstkBa0uVnY,cregungaretti@icloud.com,price_1PK1ekHsrWBJzFX22QALDwyA,year,348.00,active,2024-05-30 17:12,Carolina  Ungaretti
+cus_QCOftVDVUHJsxO,ga.palmeiras84@gmail.com,price_1PHVteHsrWBJzFX22XL31kAt,month,32.00,active,2024-05-30 03:42,Gabriel Pereira Dantas
+cus_QBypSpEMwlVzf0,luizballas@yahoo.com.br,price_1PHVteHsrWBJzFX22XL31kAt,month,32.00,active,2024-05-29 00:59,Luiz Balas
+cus_QBvEOM3mhW5JFD,mariangelacrnkovic@gmail.com,price_1PHVteHsrWBJzFX22XL31kAt,month,32.00,active,2024-05-28 21:16,Mariângela Crnkovic
+cus_QBugqK5bf9deei,gabrielavieirabrasil@gmail.com,price_1PHVteHsrWBJzFX22XL31kAt,month,32.00,active,2024-05-28 20:42,Gabriela Vieira de Souza Silva
+cus_QBsXTYZSJ84VJK,ottovnagel@gmail.com,price_1PHVteHsrWBJzFX22XL31kAt,month,32.00,active,2024-05-28 18:29,OTTO NAGEL
+cus_QBb1T5xPTo4I9s,fepoetacarvalho@gmail.com,price_1PHVteHsrWBJzFX22XL31kAt,month,32.00,active,2024-05-28 00:23,Fernanda Poeta
+cus_QBaz2O8Zd1n5vr,i.sa.sm@hotmail.com,price_1PHVteHsrWBJzFX22XL31kAt,month,32.00,active,2024-05-28 00:21,Isadora Machado
+cus_QB8CyjDueJSnT0,milenaferraro@gmail.com,price_1PHVteHsrWBJzFX22XL31kAt,month,32.00,active,2024-05-26 18:37,Milena Ferraro de Carvalho
+cus_QB4sLSRqxs6PNr,gustavoportugalhamer@hotmail.com,price_1PHVteHsrWBJzFX22XL31kAt,month,32.00,active,2024-05-26 15:10,Gustavo Henrique Portugal Hamer
+cus_QAdqDmsozkyjjc,taynaraigor@yahoo.com.br,price_1PHVteHsrWBJzFX22XL31kAt,month,32.00,active,2024-05-25 11:15,Taynara
+cus_QANcZlWlJQ3W9P,ketelensilvaanselmo@gmail.com,price_1PHVteHsrWBJzFX22XL31kAt,month,32.00,active,2024-05-24 18:28,Ketelen Silva Anselmo
+cus_QAKZP6dPqSMPyL,lanza_cindy@hotmail.com,price_1PHVteHsrWBJzFX22XL31kAt,month,32.00,active,2024-05-24 15:19,Cindy Vilela Silva Teixeira
+cus_QAKBSXeukQP4pV,mariaeac1@al.insper.edu.br,price_1PHVteHsrWBJzFX22XL31kAt,month,32.00,active,2024-05-24 14:56,Maria  Comparato
+cus_QAJMayVKFK6mCm,juuh.cruz15@gmail.com,price_1PHVteHsrWBJzFX22XL31kAt,month,32.00,active,2024-05-24 14:05,Juliana Cruz
+cus_QAJMgLAafG311z,ananevessssssss@gmail.com,price_1PHVteHsrWBJzFX22XL31kAt,month,32.00,active,2024-05-24 14:04,Ana  Neves
+cus_QAJDMWAfTOJDlx,batadiello@hotmail.com,price_1PHVteHsrWBJzFX22XL31kAt,month,32.00,active,2024-05-24 13:56,Barbara Tadiello
+cus_QAIk66gk1v3NsU,amandatomaz1996@gmail.com,price_1PHVteHsrWBJzFX22XL31kAt,month,32.00,active,2024-05-24 13:26,Amanda Tomaz
+cus_QAIgeEifJxu1U2,larimaruggi.lima@gmail.com,price_1PHVteHsrWBJzFX22XL31kAt,month,32.00,active,2024-05-24 13:22,Larissa Maruggi de Lima
+cus_QA3Xs936N005oz,amandaleite1@icloud.com,price_1PHVteHsrWBJzFX22XL31kAt,month,32.00,active,2024-05-23 21:44,Amanda Leite
+cus_QA2zSkRXidxImI,viniciusberghahn@gmail.com,price_1PHVteHsrWBJzFX22XL31kAt,month,32.00,active,2024-05-23 21:09,Vinicius Berghahn
+cus_Q9yIAeXfb8YObq,pripr10@hotmail.com,price_1PHVteHsrWBJzFX22XL31kAt,month,32.00,active,2024-05-23 16:19,Priscila Rodrigues
+cus_Q9ko4pafPnsqg7,sabrinemlowy@gmail.com,price_1PHVteHsrWBJzFX22XL31kAt,month,32.00,active,2024-05-23 02:22,Sabrine Lowy
+cus_Q9jiBGvpMwrAIS,moni_soldan@hotmail.com,price_1PHVteHsrWBJzFX22XL31kAt,month,32.00,active,2024-05-23 01:14,Monique Soldan Rodrigues Silva
+cus_Q9hsED5swiiUnk,larissasouza9216@gmail.com,price_1PHVteHsrWBJzFX22XL31kAt,month,32.00,active,2024-05-22 23:21,Larissa Oliveira
+cus_Q9ehx2A73HXzjp,brito.barbosa.matheus@gmail.com,price_1PHVteHsrWBJzFX22XL31kAt,month,32.00,active,2024-05-22 20:04,Matheus Barbosa
+cus_Q9GTNQBTZ5ZSm0,digoplemos@gmail.com,price_1PHVteHsrWBJzFX22XL31kAt,month,32.00,active,2024-05-21 19:02,Rodrigo Lemos
+cus_Q8qcIyfP8uW5RN,elianerochal@hotmail.com,price_1PHVteHsrWBJzFX22XL31kAt,month,32.00,active,2024-05-20 16:18,Eliane Rocha
+cus_Q8osqdD4LfrBsC,pietrocaiafa@gmail.com,price_1PHVteHsrWBJzFX22XL31kAt,month,32.00,active,2024-05-20 14:30,Pietro Caiafa
+cus_Q8DoTvjQlkGMxr,hearts.on.talks@gmail.com,price_1PHVteHsrWBJzFX22XL31kAt,month,32.00,active,2024-05-19 00:12,ANNE KAUFMANN
+cus_Q8D2pQq6E5bb1b,lilian.alves177@gmail.com,price_1PHVteHsrWBJzFX22XL31kAt,month,32.00,active,2024-05-18 23:24,Lilian Alves
+cus_Q8BSaxG2gLfc6B,patriciareck75@gmail.com,price_1PHVteHsrWBJzFX22XL31kAt,month,32.00,active,2024-05-18 21:46,Patrícia Monteiro Reck Bastos
+cus_Q8BKPHfogxlVy3,isabela_sestari@hotmail.com,price_1PHVteHsrWBJzFX22XL31kAt,month,32.00,active,2024-05-18 21:39,Isabela Virginia Sestari
+cus_Q8AJugXMrWbqba,alexandre@javep.com.br,price_1PHVteHsrWBJzFX22XL31kAt,month,32.00,active,2024-05-18 20:35,Alexandre Crnkovic
+cus_Q7qqS7wLroNF2u,julianaespindolado@gmail.com,price_1PHVteHsrWBJzFX22XL31kAt,month,32.00,active,2024-05-18 00:28,Juliana Espindola de Oliveira
+cus_Q7q74KImFo4z8q,carolinecarvalho25@icloud.com,price_1PHVteHsrWBJzFX22XL31kAt,month,32.00,active,2024-05-17 23:44,Caroline Caroline
+cus_Q7prpBWYJYb1Lu,manubuenopires@gmail.com,price_1PHVteHsrWBJzFX22XL31kAt,month,32.00,active,2024-05-17 23:27,manuela bueno
+cus_Q7mbK22vxhV2Ka,larskkunath3878@gmail.com,price_1PHVteHsrWBJzFX22XL31kAt,month,32.00,active,2024-05-17 20:05,Lars
